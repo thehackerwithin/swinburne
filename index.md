@@ -1,60 +1,90 @@
 ---
 layout: layout
-title: About
+title: "About"
 ---
 
+<!-- You can edit this whole page, remove it, or use it as basis for any non-post pages you have. -->
 <section class="content">
 
-The {{ site.name }}
-===================
+The {{ site.name }}, {{ site.chapter }}
+========================================
 
 <ul class="listing">
-<li> <span>Spring 2015</span> <a href="{{ site.url }}/upcoming.html">Upcoming Topics</a></li>
-<li> <span>Pre-2015</span> <a href="{{ site.url }}/previous.html">Previous Topics</a></li>
+<li> 
+<span>Spring 2015</span><a href="{{ site.url }}/upcoming.html">Upcoming Topics</a>
+</li>
+<li>
+<span>2013-2014</span><a href="{{ site.url }}/previous.html">Previous Topics</a>
+</li>
 </ul>
 
-Next Meeting
--------------
-
-* Date: Jan 30, 2015
-* Time: 12-1 PM
-* Location: [2188 Mechanical Engineering][me_map]
-* Topic: Jekyll for Github Markdown
 
 What:
 -----
 
-A weekly meeting of researchers who are always learning new tips and tricks to
-make their computational work flow more smoothly.  In these friendly sessions,
-peers at all levels of experience share topics useful in our scientific
-software development workflows.
+This is a weekly meeting for sharing skills and best practices for 
+scientific computation. In these friendly sessions, peers at all levels 
+of experience share topics useful in our scientific software development 
+workflows.
 
-This meeting would be a great venue for introducing new libraries, showing off
-useful features of a scientific library or programming language you're using,
-or bringing up a computational problem you're having.
+This meeting would be a great venue for introducing new libraries, 
+showing off useful features of a scientific library or programming 
+language you're using, or bringing up a computational problem you're 
+having.
+
+Where: 
+-----
+
+This meeting takes place somewhere cool.
+
 
 Who:
-----
+-----
 
-Anyone interested in software development best practices is welcome to come to our meetings.
+Anyone interested in software development best practices is welcome to 
+come to our meetings.
+
 
 When:
 -----
 
-Every second Friday, from 12-1 PM.
 
-Other chapters:
-------------------
+Sometimes!
 
-  * [U. California-Berkeley](http://thehackerwithin.github.io/berkeley) (USA)
-  * [U. Melbourne](http://thehackerwithin.github.io/melbourne) (Australia)
+To keep up with meetings, you will want to  
+[sign up for the mailing list](https://?).
+
+
+
+How:
+-----
+
+Participating is really easy. 
+
+The Hacker Within relies on peer-driven teaching, so please volunteer to 
+give of these talks. To do so, just ping the listhost by email at 
+[?](mailto:?).
+
+
+Why:
+------
+
+
+The tenets of scientiﬁc endeavor (e.g., data control, reproducibility, 
+comprehensive documentation, and peer review) suffer in projects that fail 
+to make use of current development tools such as unit testing, version 
+control, automated documentation, and others.
+
+
+To avoid these pitfalls, this weekly meeting exists for sharing skills and best practices for 
+computational scientific applications. This group is modeled after The 
+Hacker Within, which  began as a student organization at the University of Wisconsin-Madison and 
+is now reborn as a collection of such chapters around the world. Each of 
+the chapters convenes a community of scientists, at all levels of their 
+education and training, to share their knowledge and best practices in 
+using computing to accomplish their work.
 
 <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="{{ site.twitter }}">Tweet</a>
 <a href="http://twitter.com/{{ site.twitter }}" class="twitter-follow-button" data-show-count="false">Follow @{{ site.twitter }}</a>
 <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
-
-
-
 </section>
-
-[me_map]: http://map.wisc.edu/s/4olvug5e
