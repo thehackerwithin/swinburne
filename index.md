@@ -22,53 +22,36 @@ The {{ site.name }}, {{ site.chapter }}
 What:
 -----
 
-This is a weekly meeting for sharing skills and best practices for 
-scientific computation. In these friendly sessions, peers at all levels 
-of experience share topics useful in our scientific software development 
-workflows.
+Swinburne Hacker Within is a two-hour weekly informal meetup for Swinburne PhD students and researchers at all levels. It's about sharing ideas, learning hwo to use existing web-based tools, building up programming skills and helping one another to create innovative research tools or new projects that may (or may not) enhance your research. It's mainly about having fun. 
 
-This meeting would be a great venue for introducing new libraries, 
-showing off useful features of a scientific library or programming 
-language you're using, or bringing up a computational problem you're 
-having.
+No previous programming/hacking experience is necessary. Each session will be based around a theme and will include a short talk or demonstration to generate ideas. Researchers are welcome to follow along, or just work on their on their own projects. Participants are encouraged to work together and share ideas on skills. 
 
-Where: 
+Initially, the sessions will focus on data visualisation tools for research, creating research websites and blogs, and learning about software repositories like GitHub and tools like iPython notebook.
+
+Organiser: Arna Karick (akarick@swin.edu.au)
+
+Where & When: 
 -----
 
-This meeting takes place somewhere cool.
+Advanced Manufacturing and Design Centre (AMDC) Room 206. Typically every Wednesday (or Thursday) between 1 and 3pm. See 'Upcoming Events' for specific dates and times.
 
 
 Who:
 -----
 
-Anyone interested in software development best practices is welcome to 
-come to our meetings.
+PhDs and researchers at all levels from all disciplines. Basically Anyone interested in learing how to use GitHub to write and share code, create data visualisations from research data, learn Python (iPython Notebooks), Julia, web design (HTML, CSS), CartoDB mapping, TimelineJS visualisation, turn spreasheets into databases and kickstart new projects.
 
-
-When:
------
-
-
-Sometimes!
-
-To keep up with meetings, you will want to  
-[sign up for the mailing list](https://?).
-
+Dont worry, if you are total novice we will help set you up. You'll be creating website and hacking projects in no time. 
 
 
 How:
 -----
 
-Participating is really easy. 
-
-The Hacker Within relies on peer-driven teaching, so please volunteer to 
-give of these talks. To do so, just ping the listhost by email at 
-[?](mailto:?).
+Participating is really easy. Just bring your laptop, ideas, enthusiasm, and optional coffee mug (there is a kitchen next door). If you have any questions about the meetup feel free to email me directly.
 
 
-Why:
+Background:
 ------
-
 
 The tenets of scientiﬁc endeavor (e.g., data control, reproducibility, 
 comprehensive documentation, and peer review) suffer in projects that fail 
