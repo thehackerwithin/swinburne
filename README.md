@@ -1,4 +1,4 @@
-swinburne
+Swinburne
 =========
 
 Welcome to the Hacker Within at Swinburne University of Technology.
