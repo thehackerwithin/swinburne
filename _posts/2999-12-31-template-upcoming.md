@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Bleeding Edge Stuff
-author: New Hat
+title: Data Visualisation using simple web tools: CartoDB and TimelineJS 
+author: Arna Karick
 category: upcoming
 tags: meeting 
 ---
