@@ -10,7 +10,7 @@ The {{ site.name }}, {{ site.chapter }}
 ========================================
 
 <ul class="listing">
-<li> 
+<li>
 <span>Spring 2015</span><a href="{{ site.url }}/upcoming.html">Upcoming Topics</a>
 </li>
 <li>
@@ -50,8 +50,8 @@ How:
 Participating is really easy. Just bring your laptop, ideas, enthusiasm, and coffee mug (optional - there is a kitchen next door). If you have data you want to work on then bring that too.
 
 <ul>
-<li> At <b>1:00pm</b> we meet, go through a quick round of introductions and throw initial ideas onto the whiteboard.</li>
-<li> Next, someone will give a short tutorial or lead a discussion about a topic, or introduce a new web tool they recently discovered. This topic can be anything. It may be some new skill you have recently picked up in your research, a productivity tool you have recently learned to love, an overview of a useful library, or anything you feel we would enjoy learning.</li>
+<li> At <b>1:00pm</b> we meet, go through a quick round of introductions and throw initial ideas onto the whiteboard.</li><br>
+<li> Next, someone will give a short tutorial or lead a discussion about a topic, or introduce a new web tool they recently discovered. This topic can be anything. It may be some new skill you have recently picked up in your research, a productivity tool you have recently learned to love, an overview of a useful library, or anything you feel we would enjoy learning.</li><br>
 <li> The rest of the session will be spent learning new tools, or working on new projects. </li>
 </ul>
 
