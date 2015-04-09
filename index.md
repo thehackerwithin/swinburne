@@ -22,32 +22,43 @@ The {{ site.name }}, {{ site.chapter }}
 What:
 -----
 
-Swinburne Hacker Within is a two-hour weekly informal meetup for Swinburne PhD students and researchers at all levels and from all disciplines. It's about sharing ideas, learning how to use existing web-based tools, building up programming skills and helping one another to create innovative research tools and projects to enhance your research (or other interests). It's mainly about having fun and learning new skills.
+Swinburne Hacker Within is a two-hour weekly informal meetup for Swinburne PhD students and researchers at all levels and from all disciplines. It's about sharing ideas, learning how to use existing web-based tools, trouble shooting existing problems, building up programming skills and helping one another to create innovative research tools and projects to enhance your research (or other interests). It's mainly about having fun and learning new skills.
 
 No previous programming/hacking experience is necessary. Each session will be based around a theme and will include a short talk or demonstration to generate ideas. Researchers are welcome to follow along, or just work independently or in groups on their on their own projects. Participants are encouraged to work together, share ideas and skills, and suggest topics for future sessions.
 
-Initial sessions will focus on data visualisation tools for research, creating research websites and blogs, and learning about software repositories like GitHub and tools like iPython notebook. More advanced topics may be thrown in from time to time. Researchers from ALL disciplines are welcome to come along.
+Initial sessions will focus on data visualisation tools for research, creating research websites and blogs, and learning about software repositories like GitHub and tools like iPython notebook. More advanced topics may be thrown in from time to time. Researchers from ALL disciplines (social sciences, biosciences, astronomy, business, design, everyone!) are welcome to come along. 
 
 Organiser: Arna Karick (akarick@swin.edu.au)
 
 Where & When: 
 -----
 
-Advanced Manufacturing and Design Centre (AMDC) Room 206. Typically every Wednesday (or Thursday) between 1 and 3pm. See 'Upcoming Events' for specific dates and times.
+Advanced Manufacturing and Design Centre (AMDC) Room 206. Typically every Wednesday (or Thursday) from 1-3pm. See the list of upcoming topics for specific dates and times.
 
 
 Who:
 -----
 
-PhDs and researchers at all levels from all disciplines (social sciences, biosciences, engineering, astronomy, business, design, everyone!). Basically Anyone interested in learing how to use GitHub to write and share code, create data visualisations from research data, learn Python (iPython Notebooks), Julia, web design (HTML, CSS), CartoDB mapping, D3js and TimelineJS visualisations, turning spreasheets into databases and kickstarting new projects for research or outreach.
+PhDs and researchers at all levels from all disciplines (social sciences, biosciences, engineering, astronomy, business, design, everyone!).  Anyone interested in learing how to use GitHub to write and share code, create data visualisations from research data, learn Python (iPython Notebooks), Julia, web design (HTML, CSS), CartoDB mapping, D3js and TimelineJS visualisations, turning spreasheets into databases and kickstarting new projects for research or outreach.
 
-First time hackers don't be afraid!  We will help set up laptops and you'll be creating websites and small projects in no time. 
+First time hackers need not be afraid! We will help set up laptops. You will be creating websites and small projects in no time. 
 
 
 How:
 -----
 
-Participating is really easy. Just bring your laptop, ideas, enthusiasm, and optional coffee mug (there is a kitchen next door). If you have any questions about the meetup feel free to email me directly.
+Participating is really easy. Just bring your laptop, ideas, enthusiasm, and coffee mug (optional - there is a kitchen next door). If you have data you want to work on then bring that too.
+
+<ul class="listing">
+<li> At **1pm** we meet, go through a quick round of introductions and share initial ideas.
+</li>
+<li> Next, someone will give a short tutorial or lead a discussion about a topic, or introduce a new web tool they recently discovered. This topic can be anything. It may be some new skill you have recently picked up in your research, a productivity tool you have recently learned to love, an overview of a useful library, or anything you feel we would enjoy learning.
+</li>
+<li> The rest of the session will be spent learning new tools, or working on new projects. 
+</li>
+</ul>
+
+If you have any questions about the meetup feel free to email me directly.
 
 
 Background:
