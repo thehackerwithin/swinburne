@@ -11,10 +11,10 @@ The {{ site.name }}, {{ site.chapter }}
 
 <ul class="listing">
 <li>
-<span>April onwards 2015</span><a href="{{ site.url }}/upcoming.html">Upcoming Topics</a>
+<span>April 2015 onwards</span><a href="{{ site.url }}/upcoming.html">Upcoming Topics</a>
 </li>
 <li>
-<span>2013-2014</span><a href="{{ site.url }}/previous.html">Previous Topics</a>
+<span> </span><a href="{{ site.url }}/previous.html">Previous Topics</a>
 </li>
 </ul>
 
