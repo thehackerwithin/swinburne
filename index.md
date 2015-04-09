@@ -50,12 +50,9 @@ How:
 Participating is really easy. Just bring your laptop, ideas, enthusiasm, and coffee mug (optional - there is a kitchen next door). If you have data you want to work on then bring that too.
 
 <ul class="listing">
-<li> At **1pm** we meet, go through a quick round of introductions and share initial ideas.
-</li>
-<li> Next, someone will give a short tutorial or lead a discussion about a topic, or introduce a new web tool they recently discovered. This topic can be anything. It may be some new skill you have recently picked up in your research, a productivity tool you have recently learned to love, an overview of a useful library, or anything you feel we would enjoy learning.
-</li>
-<li> The rest of the session will be spent learning new tools, or working on new projects. 
-</li>
+<li> At **1pm** we meet, go through a quick round of introductions and share initial ideas.</li>
+<li> Next, someone will give a short tutorial or lead a discussion about a topic, or introduce a new web tool they recently discovered. This topic can be anything. It may be some new skill you have recently picked up in your research, a productivity tool you have recently learned to love, an overview of a useful library, or anything you feel we would enjoy learning.</li>
+<li> The rest of the session will be spent learning new tools, or working on new projects. </li>
 </ul>
 
 If you have any questions about the meetup feel free to email me directly.
