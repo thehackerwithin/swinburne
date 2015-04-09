@@ -11,7 +11,7 @@ The {{ site.name }}, {{ site.chapter }}
 
 <ul class="listing">
 <li>
-<span>Spring 2015</span><a href="{{ site.url }}/upcoming.html">Upcoming Topics</a>
+<span>April onwards 2015</span><a href="{{ site.url }}/upcoming.html">Upcoming Topics</a>
 </li>
 <li>
 <span>2013-2014</span><a href="{{ site.url }}/previous.html">Previous Topics</a>
