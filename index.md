@@ -22,11 +22,11 @@ The {{ site.name }}, {{ site.chapter }}
 What:
 -----
 
-Swinburne Hacker Within is a two-hour weekly informal meetup for Swinburne PhD students and researchers at all levels. It's about sharing ideas, learning hwo to use existing web-based tools, building up programming skills and helping one another to create innovative research tools or new projects that may (or may not) enhance your research. It's mainly about having fun. 
+Swinburne Hacker Within is a two-hour weekly informal meetup for Swinburne PhD students and researchers at all levels and from all disciplines It's about sharing ideas, learning how to use existing web-based tools, building up programming skills and helping one another to create innovative research tools and projects to enhance your research (or other interests). It's mainly about having fun and learning new skills.
 
-No previous programming/hacking experience is necessary. Each session will be based around a theme and will include a short talk or demonstration to generate ideas. Researchers are welcome to follow along, or just work on their on their own projects. Participants are encouraged to work together and share ideas on skills. 
+No previous programming/hacking experience is necessary. Each session will be based around a theme and will include a short talk or demonstration to generate ideas. Researchers are welcome to follow along, or just work independently or in groups on their on their own projects. Participants are encouraged to work together, share ideas and skills, and suggest topics for future sessions.
 
-Initially, the sessions will focus on data visualisation tools for research, creating research websites and blogs, and learning about software repositories like GitHub and tools like iPython notebook.
+Initial sessions will focus on data visualisation tools for research, creating research websites and blogs, and learning about software repositories like GitHub and tools like iPython notebook. More advanced topics may be thrown in from time to time. Researchers from ALL disciplines are welcome to come along.
 
 Organiser: Arna Karick (akarick@swin.edu.au)
 
@@ -39,9 +39,9 @@ Advanced Manufacturing and Design Centre (AMDC) Room 206. Typically every Wednes
 Who:
 -----
 
-PhDs and researchers at all levels from all disciplines. Basically Anyone interested in learing how to use GitHub to write and share code, create data visualisations from research data, learn Python (iPython Notebooks), Julia, web design (HTML, CSS), CartoDB mapping, TimelineJS visualisation, turn spreasheets into databases and kickstart new projects.
+PhDs and researchers at all levels from all disciplines (social sciences, biosciences, engineering, astronomy, business, design, everyone!). Basically Anyone interested in learing how to use GitHub to write and share code, create data visualisations from research data, learn Python (iPython Notebooks), Julia, web design (HTML, CSS), CartoDB mapping, D3js and TimelineJS visualisations, turning spreasheets into databases and kickstarting new projects for research or outreach.
 
-Dont worry, if you are total novice we will help set you up. You'll be creating website and hacking projects in no time. 
+First time hackers don't be afraid!  We will help set up laptops and you'll be creating websites and small projects in no time. 
 
 
 How:
