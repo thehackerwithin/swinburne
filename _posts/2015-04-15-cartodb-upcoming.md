@@ -7,11 +7,9 @@ category: upcoming
 tags: meeting 
 ---
 
-
 ## Attending
 
 About N people
-
 
 ## Arna Karick 
 
