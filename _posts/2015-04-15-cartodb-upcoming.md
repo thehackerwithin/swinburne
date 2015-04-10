@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: Data Visualisation using simple web tools: CartoDB and TimelineJS - Arna Karick
+title: Data Visualisation using CartoDB and TimelineJS
 author: Arna Karick
 category: upcoming
 tags: meeting 
