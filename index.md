@@ -22,18 +22,18 @@ The {{ site.name }}, {{ site.chapter }}
 What:
 -----
 
-Swinburne Hacker Within is a two-hour weekly informal meetup for Swinburne PhD students and researchers at all levels and from all disciplines. It's about sharing ideas, learning how to use existing web-based tools, trouble shooting existing problems, building up programming skills and helping one another to create innovative research tools and projects to enhance your research (or other interests). It's mainly about having fun and learning new skills.
+Swinburne Hacker Within is a two-hour weekly informal meetup for Swinburne PhD students and researchers at all levels and from all disciplines. It's about learning new web-skills, gaining experience with programming languages, trouble shooting existing problems, and helping one another to create innovative research tools and projects to enhance your research (or other interests). It's mainly about having fun, sharing ideas, and finding your hacker within.
 
-No previous programming/hacking experience is necessary. Each session will be based around a theme and will include a short talk or demonstration to generate ideas. Researchers are welcome to follow along, or just work independently or in groups on their on their own projects. Participants are encouraged to work together, share ideas and skills, and suggest topics for future sessions.
+No previous programming/hacking experience is necessary. Each session will be based around a theme and will include a short talk or demonstration to generate ideas. Researchers are welcome to follow along, or just work independently or in groups on their on their own projects. Participants are encouraged to work together, share ideas and skills, and propose topics for future sessions.
 
-Initial sessions will focus on data visualisation tools for research, creating research websites and blogs, and learning about software repositories like GitHub and tools like iPython notebook. More advanced topics may be thrown in from time to time. Researchers from ALL disciplines (social sciences, biosciences, astronomy, business, design, everyone!) are welcome to come along. 
+Initial sessions will focus on data visualisation tools for research, creating research websites and blogs, and learning about software repositories like GitHub and useful tools to make programming easier, e.g. iPython Notebook. More advanced topics may be thrown in from time to time. Researchers from ALL disciplines (social sciences, biosciences, astronomy, business, design, everyone!) are welcome to come along. 
 
-Organiser: Arna Karick (akarick@swin.edu.au)
+Organiser: Arna Karick <a href="http://twitter.com/drarnakarick">@drarnakarick</a> (<a href="mailto:akarick@swin.edu.au">akarick@swin.edu.au</a>)
 
 Where & When: 
 -----
 
-Advanced Manufacturing and Design Centre (AMDC) Room 206. Typically every Wednesday (or Thursday) from 1-3pm. See the list of upcoming topics for specific dates and times.
+Advanced Manufacturing and Design Centre (AMDC) Room 206. Every Wednesday from 1-3pm unless otherwise stated. See the list of upcoming topics for specific dates and times.
 
 
 Who:
