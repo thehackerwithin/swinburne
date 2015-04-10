@@ -12,7 +12,7 @@ Swinburne Hacker Within will explore the following tentative set of topics over 
 
 <b> Proposed Topics </b>
 <ul class="listing">
-<li>Introduction to Julia Programming Language/<li>
+<li>Introduction to Julia Programming Language</li>
 <li> <a href="http://d3js.org">D3js.org</a> Data-driven Documents (Javascript library) </li>
 </ul>
 
