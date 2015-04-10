@@ -29,7 +29,7 @@ Swinburne Hacker Within will explore the following tentative set of topics over 
 **Potential Topics**
 
 <ul class="listing">
-<li>Creating interactive figures from basic research plots<li>
+<li>Creating interactive figures from basic research plots</li>
 <li>Introduction to Julia Programming Language</li>
 <li>D3js Data-driven Documents: Javascript library - Website: <a href="http://d3js.org">D3js.org</a></li>
 <li> CartoDB Mapping for Researchers</li>
