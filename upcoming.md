@@ -29,12 +29,14 @@ Swinburne Hacker Within will explore the following tentative set of topics over 
 **Potential Topics**
 
 <ul class="listing">
+<li>Creating interactive figures from basic research plots<li>
 <li>Introduction to Julia Programming Language</li>
 <li>D3js Data-driven Documents: Javascript library - Website: <a href="http://d3js.org">D3js.org</a></li>
 <li> CartoDB Mapping for Researchers</li>
 <li> LeafletJS: open-source JavaScript library for mobile-friendly interactive maps - Website: <a href="http://leafletjs.com">LeafletJS</a></li>
 <li> OdysseyJS: open-source tool that allows you to combine maps, narratives, and other multimedia into a beautiful story</li>
 <li>Tableau Public free tool for visualising data</li>
+<li>S2PLOT: advanced three-dimensional plotting library that can be used to embed interactive PDFs into papers</li>
 <li>OpenRefine (formerly Google Refine): great for cleaning up messy spreadsheet data</li>
 <li>SQLAlchemy the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.</li>
 <li>Object Oriented Programming</li>
