@@ -32,6 +32,7 @@ Swinburne Hacker Within will explore the following tentative set of topics over 
 <li>Creating interactive figures from basic research plots</li>
 <li>Introduction to Julia Programming Language</li>
 <li>D3js Data-driven Documents: Javascript library - Website: <a href="http://d3js.org">D3js.org</a></li>
+<li>Building visually-rich interactive timelines with TimelineJS</li>
 <li> CartoDB Mapping for Researchers</li>
 <li> LeafletJS: open-source JavaScript library for mobile-friendly interactive maps - Website: <a href="http://leafletjs.com">LeafletJS</a></li>
 <li> OdysseyJS: open-source tool that allows you to combine maps, narratives, and other multimedia into a beautiful story</li>
