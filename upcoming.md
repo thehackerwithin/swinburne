@@ -43,12 +43,13 @@ Swinburne Hacker Within will explore the following tentative set of topics over 
 <li>Introduction to Authorea</li>
 <li>R</li>
 <li>Shiny: an R-language package that creates web applications to interact with analysis pipelines and visualizations.</li>
-<li>iPython</li>
-<li>Testing</li>
+<li>iPython and iPython Notebooks</li>
+<li>Astropy</li>
+<li>The Value of Code Testing</li>
 <li>Advanced Git</li>
 <li>What do you want to learn? What do you want to teach?</li>
-<li> Sooftware Cartpentry at Swinburne</li>
-<li> Matplob lib and Seaborn</li>
+<li> Software Carpentry at Swinburne</li>
+<li> Matplot lib and Seaborn</li>
 </ul>
 
 
