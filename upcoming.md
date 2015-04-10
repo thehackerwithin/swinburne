@@ -14,7 +14,7 @@ Swinburne Hacker Within will explore the following tentative set of topics over 
  <ul class="listing">
  {% assign upcoming = (site.posts | where: "category", "upcoming") %}
  {% for post in upcoming reversed %}
--<li><span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+<li><span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
 <li>
 <span>{{ post.date | date: "%B %e, %Y" }}</span>
 <a href="{{ site.url }}{{ post.url }}">
