@@ -62,7 +62,7 @@ Participating is really easy. Just bring your laptop, ideas, enthusiasm, and cof
 
 </ul>
 
-The Hacker Within relies on peer-driven teaching, so please volunteer to lead a topic or discussion. To do so, just send an email to akarick@swin.edu.au. If you have any other questions about the meetup feel free to email.
+The Hacker Within relies on peer-driven teaching, so please volunteer to lead a topic or discussion. If you have any other questions about the meetup feel free to email the organiser.
 
 
 Background:
