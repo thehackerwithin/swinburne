@@ -36,7 +36,7 @@ Organiser: Arna Karick <a href="http://twitter.com/drarnakarick">@drarnakarick</
 Where & When: 
 -----
 
-Advanced Manufacturing and Design Centre (AMDC) Room 206. Every Wednesday from 1-3pm unless otherwise stated. See the list of <a href="http://thehackerwithin.github.io/swinburne/upcoming.html">upcoming topics</a> for specific dates and times.
+Advanced Manufacturing and Design Centre (AMDC) Room 206. Nominally every Wednesday from 1-3pm unless otherwise stated. See the list of <a href="http://thehackerwithin.github.io/swinburne/upcoming.html">upcoming topics</a> for specific dates and times.
 
 
 Who:
@@ -54,7 +54,7 @@ Participating is really easy. Just bring your laptop, ideas, enthusiasm, and cof
 
 <ul>
 <li> At <b>1:00pm</b> we meet, go through a quick round of introductions and throw initial ideas onto the whiteboard.</li><br>
-<li> Next, someone will give a short tutorial or lead a discussion about a topic, or introduce a new web tool they recently discovered. This topic can be anything. It may be some new skill you have recently picked up in your research, a productivity tool you have recently learned to love, an overview of a useful library, or anything you feel we would enjoy learning.</li><br>
+<li> Every second week someone will give a short tutorial or lead a discussion about a topic, or introduce a new web tool they recently discovered. This topic can be anything. It may be some new skill you have recently picked up in your research, a productivity tool you have recently learned to love, an overview of a useful library, or anything you feel we would enjoy learning.</li><br>
 <li> The rest of the session will be spent learning new tools, or working on new projects. There will be plenty of time for Lightning Talks, 5-10 minute blasts of information about a particular topic or question of interest to the group. Note that the lightning talk time is a good way to bring a question to the group. If you have a bug you need help with, here’s the place to ask many ears about it at once.</li>
 
 </ul>
