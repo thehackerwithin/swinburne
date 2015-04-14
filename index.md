@@ -72,8 +72,8 @@ control, automated documentation, and others.
 
 
 To avoid these pitfalls, this weekly meeting exists for sharing skills and best practices for 
-computational scientific applications. This group is modeled after The 
-Hacker Within, which  began as a student organization at the University of Wisconsin-Madison and 
+computational scientific applications. This group is modeled after <a href="http://thehackerwithin.github.io">The 
+Hacker Within</a> which  began as a student organization at the University of Wisconsin-Madison and 
 is now reborn as a collection of such chapters around the world. Each of 
 the chapters convenes a community of researchers, at all levels of their 
 education and training, to share their knowledge and best practices in 
