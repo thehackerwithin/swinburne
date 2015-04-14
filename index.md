@@ -33,7 +33,7 @@ Initial sessions will focus on data visualisation tools for research, creating r
 
 Organiser: Arna Karick <a href="http://twitter.com/drarnakarick">@drarnakarick</a> (<a href="mailto:akarick@swin.edu.au">akarick@swin.edu.au</a>)
 
-If you would like to join the Swinburne Hacker Within mailing list click <a href="mailto:RIS@swin.edu.au?Subject=Please add me to the Hacker within and e-Research mailing lists"><strong>subscribe</strong></a>.</p> 
+To keep updated please <a href="mailto:RIS@swin.edu.au?Subject=Please add me to the Hacker Within and e-Research mailing lists"><strong>subscribe</strong></a> to the Swinburne Hacker Within mailing list.</p>
 
 Where & When: 
 -----
