@@ -22,10 +22,7 @@ The {{ site.name }}, {{ site.chapter }}
 What:
 -----
 
-Swinburne Hacker Within is a two-hour weekly informal meetup for Swinburne PhD students and researchers at all levels
-and from all disciplines. It's about learning new web-skills, gaining experience with programming languages, trouble 
-shooting existing problems, and helping one another to create innovative research tools and projects to enhance your 
-research (or other interests). It's mainly about having fun, sharing ideas, and finding your hacker within.
+Swinburne Hacker Within is a two-hour weekly informal meetup for Swinburne PhD students, technical staff involved in big-data projects, and researchers at all levels and from all disciplines. It's about learning new web-skills, gaining experience with programming languages, trouble shooting existing problems, and helping one another to create innovative research tools and projects to enhance your research (or other interests). It's mainly about having fun, sharing ideas, and finding your hacker within.
 
 No previous programming/hacking experience is necessary. Each session will be based around a theme and will include a
 short talk or demonstration to generate ideas. Researchers are welcome to follow along, or just work independently or
