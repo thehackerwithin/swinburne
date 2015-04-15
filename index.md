@@ -66,6 +66,8 @@ The Hacker Within relies on peer-driven teaching, so please volunteer to lead a 
 Links to resources and projects:
 -----
 
+<a href="https://github.com/thehackerwithin/swinburne/blob/gh-pages/links.md">Links from each session</a>
+
 Background:
 ------
 
