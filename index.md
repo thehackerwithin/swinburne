@@ -63,6 +63,8 @@ Participating is really easy. Just bring your laptop, ideas, enthusiasm, and cof
 
 The Hacker Within relies on peer-driven teaching, so please volunteer to lead a topic or discussion. If you have any other questions about the meetup feel free to email the organiser.
 
+Links to resources and projects:
+-----
 
 Background:
 ------
