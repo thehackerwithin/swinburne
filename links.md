@@ -4,7 +4,7 @@
 ## Useful links 
 
 <ul>
-<li>Swinburne Cyber Securty club: http://scsc.wtf
+<li><a href="http://scsc.wtf">Swinburne Cyber Security Club</a></li>
 <li><a href="http://cartodb.com">CartoDB</a>: Mapping for Researchers</li>
 <li><a href="http://leafletjs.com"> LeafletJS</a>: Open-source JavaScript library for mobile-friendly interactive maps.</li>
 <li><a href="http://timeline.knightlab.com">TimelineJS</a>: Beautifully crafted timelines that are easy and intuitive to use.</li>
