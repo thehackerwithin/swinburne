@@ -66,8 +66,8 @@ The Hacker Within relies on peer-driven teaching, so please volunteer to lead a 
 Links to resources and projects:
 -----
 
-<a href="{{ site.url }}/links.html">Links from each session</a>
-</span><a href="{{ site.url }}/links.html">List</a>
+<a href="{{ site.url }}/links.html">Click here for useful links, blogs to follow and examples</a>
+
 
 Background:
 ------
