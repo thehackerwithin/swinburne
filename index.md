@@ -67,6 +67,7 @@ Links to resources and projects:
 -----
 
 <a href="{{ site.url }}/links.html">Links from each session</a>
+</span><a href="{{ site.url }}/links.html">List</a>
 
 Background:
 ------
