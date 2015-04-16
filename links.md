@@ -1,3 +1,10 @@
+---
+layout: layout
+title: "Links"
+---
+
+<!-- You can edit this whole page, remove it, or use it as basis for any non-post pages you have. -->
+<section class="content">
 
 
 
@@ -29,6 +36,6 @@
 <li><a href="http://citeurl.herokuapp.com/search">CiteURL</a>: Aweb app that returns a link to the web page of an article given a citation</li>
 </ul>
 
-
+</section>
 
 
