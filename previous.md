@@ -8,6 +8,8 @@ title: Previous Topics
 Previous Topics
 ===============
 
+**Swinburne**
+
 <ul class="listing">
 {% assign past_posts = (site.posts | where: "category" , "posts") %}
 {% for post in past_posts %}
