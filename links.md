@@ -6,8 +6,6 @@ title: "Links"
 <!-- You can edit this whole page, remove it, or use it as basis for any non-post pages you have. -->
 <section class="content">
 
-
-
 ## Useful links 
 
 <ul>
@@ -26,14 +24,13 @@ title: "Links"
 <li><a href="http://www.astrobetter.com/linking-visualization-and-understanding-in-astronomy-aas223/">Blog post: Linking Visualization and Understanding in Astronomy</a></li>
 </ul>
 
-
 ## Project Examples
 
 <ul>
 <li><a href="http://www.physics.usyd.edu.au/~vmoss/jobvis/">Visualising the AAS Job Register</a> (LeafletJS)</li>
-<li><a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=1Ew3qdqfPaDemmBy0zsdyBlL0QFCulJKqL_4Kea_AMWw&font=Bevan-PotanoSans&maptype=toner&lang=en&start_zoom_adjust=2&height=650">UTMOST telescope Interactive timeline</a> (TimelineJS, Google spreadsheet)</li>
+<li><a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=1Ew3qdqfPaDemmBy0zsdyBlL0QFCulJKqL_4Kea_AMWw&font=Bevan-PotanoSans&maptype=toner&lang=en&start_zoom_adjust=2&height=650">UTMOST telescope Interactive timeline</a> (TimelineJS & Google spreadsheet)</li>
 <li><a href="http://ideas.theoj.org">The Journal of Brief Ideas</a></li>
-<li><a href="http://citeurl.herokuapp.com/search">CiteURL</a>: Aweb app that returns a link to the web page of an article given a citation</li>
+<li><a href="http://citeurl.herokuapp.com/search">CiteURL</a>: A web app that returns a link to the web page of an article given a citation (Python, Flask & Heroku)</li>
 </ul>
 
 </section>
