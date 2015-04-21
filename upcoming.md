@@ -38,6 +38,7 @@ Swinburne Hacker Within will explore the following tentative set of topics over 
 <li> CartoDB Mapping for Researchers</li>
 <li> LeafletJS: open-source JavaScript library for mobile-friendly interactive maps - Website: <a href="http://leafletjs.com">LeafletJS</a></li>
 <li> OdysseyJS: open-source tool that allows you to combine maps, narratives, and other multimedia into a beautiful story</li>
+<li>Coding for Citizen Science projects - Zooniverse etc.</li>
 <li>Tableau Public free tool for visualising data</li>
 <li>S2PLOT: advanced three-dimensional plotting library that can be used to embed interactive PDFs into papers</li>
 <li>OpenRefine (formerly Google Refine): great for cleaning up messy spreadsheet data</li>
