@@ -22,6 +22,8 @@ title: "Links"
 <li><a href="http://www.astrobiased.com">Astrobiased:</a> by Eli Bressert, Astronomer turned Data Scientist</a></li>
 <li><a href="http://datamusing.info">Musings in Amusing Data</a> by Sudeep Das, Astrophysicist turned Data Scientist</a></li>
 <li><a href="http://www.astrobetter.com/linking-visualization-and-understanding-in-astronomy-aas223/">Blog post: Linking Visualization and Understanding in Astronomy</a></li>
+<li><a href="http://viz.wtf">WTF Visualisations</a> :visualisations that make no sense</li>
+<li><a href="http://fellinlovewithdata.com">Fell in love with data</a> edited by Enrico Bertini  (<a href="https://twitter.com/filwd">@FILWD</a>), an Assistant Professor at the NYU Polytechnic School of Engineering.</li>
 </ul>
 
 ## Project Examples
