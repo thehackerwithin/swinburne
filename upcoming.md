@@ -32,6 +32,7 @@ Swinburne Hacker Within will explore the following tentative set of topics over 
 
 <ul class="listing">
 <li>Creating interactive figures from basic research plots</li>
+<li><a href="http://mozillascience.github.io/studyGroupHandbook/organizing.html">Mozilla Study Groups</a></li>
 <li>Introduction to Julia Programming Language</li>
 <li>D3js Data-driven Documents: Javascript library - Website: <a href="http://d3js.org">D3js.org</a></li>
 <li>Building visually-rich interactive timelines with TimelineJS</li>
