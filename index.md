@@ -52,7 +52,7 @@ First time hackers need not be afraid! We will help set up laptops. You will be 
 How:
 -----
 
-Participating is really easy. Just bring your laptop, ideas, enthusiasm, and coffee mug (optional - there is a kitchen next door). If you have data you want to work on then bring that too.
+Participating is really easy. Just bring your <strong>laptop, ideas, enthusiasm</strong>, and coffee mug (optional - there is a kitchen next door). If you have data you want to work on then bring that too.
 
 <ul>
 <li> At <b>1:00pm</b> we meet, go through a quick round of introductions for those who are new, and post session ideas/projects onto the whiteboard.</li><br>
