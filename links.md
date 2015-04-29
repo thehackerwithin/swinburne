@@ -28,7 +28,7 @@ title: "Links"
 <li><a href="http://www.astrobetter.com/linking-visualization-and-understanding-in-astronomy-aas223/">Blog post: Linking Visualization and Understanding in Astronomy</a></li>
 <li><a href="http://viz.wtf">WTF Visualisations</a> :visualisations that make no sense</li>
 <li><a href="http://fellinlovewithdata.com">Fell in love with data</a> edited by Enrico Bertini  (<a href="https://twitter.com/filwd">@FILWD</a>), an Assistant Professor at the NYU Polytechnic School of Engineering.</li>
-<li><a href="https://www.kimonolabs.com/about"> web text scraper - lets you turn websites into APIs in seconds</a></li>
+<li><a href="https://www.kimonolabs.com/about"> Kimono</a>web text scraper - lets you turn websites into APIs in seconds</li>
 </ul>
 
 ## Project Examples (Brag Book)
