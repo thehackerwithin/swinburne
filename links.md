@@ -34,11 +34,11 @@ title: "Links"
 ## Project Examples (Brag Book)
 
 <ul>
-<li><a href="http://www.physics.usyd.edu.au/~vmoss/jobvis/">Visualising the AAS Job Register</a> (LeafletJS)</li>
+<li><a href="http://www.physics.usyd.edu.au/~vmoss/jobvis/">Visualising the AAS Job Register</a> (uses LeafletJS)</li>
 <li><a href="http://ideas.theoj.org">The Journal of Brief Ideas</a></li>
-<li><a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=1Ew3qdqfPaDemmBy0zsdyBlL0QFCulJKqL_4Kea_AMWw&font=Bevan-PotanoSans&maptype=toner&lang=en&start_zoom_adjust=2&height=650">UTMOST telescope interactive timeline</a> (TimelineJS & Google spreadsheet)</li>
-<li><a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AtZUlHbzLE_hdHJSeTZldGJJQW5RMFpfY0ZadjFDUGc&font=Bevan-PotanoSans&maptype=toner&lang=en&start_at_end=true&height=650">PLATYPUS survey interactive timeline</a>: a southern debris disk survey at 7mm.</li>
-<li><a href="http://citeurl.herokuapp.com/search">CiteURL</a>: A web app that returns a link to the web page of an article given a citation (Python, Flask & Heroku)</li>
+<li><a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=1Ew3qdqfPaDemmBy0zsdyBlL0QFCulJKqL_4Kea_AMWw&font=Bevan-PotanoSans&maptype=toner&lang=en&start_zoom_adjust=2&height=650">UTMOST telescope interactive timeline</a> (uses TimelineJS & Google spreadsheet)<li></li>
+<li><a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AtZUlHbzLE_hdHJSeTZldGJJQW5RMFpfY0ZadjFDUGc&font=Bevan-PotanoSans&maptype=toner&lang=en&start_at_end=true&height=650">PLATYPUS survey interactive timeline</a>: a southern debris disk survey at 7mm. (uses TimelineJS & Google spreadsheet) -- by Elodie Thilliez </li>
+<li><a href="http://citeurl.herokuapp.com/search">CiteURL</a>: A web app that returns a link to the web page of an article given a citation (uses Python, Flask & Heroku) -- by Antonio Bibiano</li>
 
 </ul>
 
