@@ -14,7 +14,7 @@ title: "Links"
 <li><a href="http://leafletjs.com"> LeafletJS</a>: Open-source JavaScript library for mobile-friendly interactive maps.</li>
 <li><a href="http://timeline.knightlab.com">TimelineJS</a>: Beautifully crafted timelines that are easy and intuitive to use.</li>
 <li><a href="http://d3js.org">D3js.org</a>: Data-driven Documents Javascript library</li>
-<li><a href="http://evilangelpixie.github.io/d3js/">Samara's D3js tutorial from Week 3</a></li>
+
 <li><a href="http://codepen.io">CodePen</a>: Front end developer playground and in-browser code editor</li>
 <li><a href="http://codepen.io/mbostock/pen/Jaemg">Bar Chart CodePen template</a></li>
 <li><a href="http://raphaeljs.com">Raphael</a>: a small JavaScript library that should simplify your work with vector graphics on the web</li>
@@ -39,7 +39,7 @@ title: "Links"
 <li><a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=1Ew3qdqfPaDemmBy0zsdyBlL0QFCulJKqL_4Kea_AMWw&font=Bevan-PotanoSans&maptype=toner&lang=en&start_zoom_adjust=2&height=650">UTMOST telescope interactive timeline</a> (uses TimelineJS & Google spreadsheet) -- by Arna Karick </li>
 <li><a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AtZUlHbzLE_hdHJSeTZldGJJQW5RMFpfY0ZadjFDUGc&font=Bevan-PotanoSans&maptype=toner&lang=en&start_at_end=true&height=650">PLATYPUS survey interactive timeline</a>: a southern debris disk survey at 7mm. (uses TimelineJS & Google spreadsheet) -- by Elodie Thilliez </li>
 <li><a href="http://citeurl.herokuapp.com/search">CiteURL</a>: A web app that returns a link to the web page of an article given a citation (uses Python, Flask & Heroku) -- by Antonio Bibiano</li>
-
+<li><a href="http://evilangelpixie.github.io/d3js/">SHW Week 3 D3js tutorial</a> (uses Github, poole and Jekyll)-- by Samara Neilson</li>
 </ul>
 
 </section>
