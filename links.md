@@ -35,7 +35,7 @@ title: "Links"
 
 <ul>
 <li><a href="http://www.physics.usyd.edu.au/~vmoss/jobvis/">Visualising the AAS Job Register</a> (LeafletJS)</li>
-<li><a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=1Ew3qdqfPaDemmBy0zsdyBlL0QFCulJKqL_4Kea_AMWw&font=Bevan-PotanoSans&maptype=toner&lang=en&start_zoom_adjust=2&height=650">UTMOST telescope Interactive timeline</a> (TimelineJS & Google spreadsheet - Arna)</li>
+<li><a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=1Ew3qdqfPaDemmBy0zsdyBlL0QFCulJKqL_4Kea_AMWw&font=Bevan-PotanoSans&maptype=toner&lang=en&start_zoom_adjust=2&height=650">UTMOST telescope Interactive timeline</a> (TimelineJS & Google spreadsheet)</li>
 <li><a href="http://ideas.theoj.org">The Journal of Brief Ideas</a></li>
 <li><a href="http://citeurl.herokuapp.com/search">CiteURL</a>: A web app that returns a link to the web page of an article given a citation (Python, Flask & Heroku)</li>
 </ul>
