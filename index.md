@@ -48,11 +48,22 @@ PhDs and researchers at all levels from all disciplines - social sciences, biosc
 
 First time hackers need not be afraid! We will help set up laptops. You will be creating websites and small projects in no time. 
 
+What to bring:
+-----
+
+Participating is really easy. Just bring your;
+
+<ul>
+<li>laptop</li>
+<li>ideas</li>
+<li>, enthusiasm</li>
+<li>coffee mug (optional - there is a kitchen next door)</li>
+</ul>
+If you have data you want to work on then bring that too.
+
 
 How:
 -----
-
-Participating is really easy. Just bring your <strong>laptop, ideas, enthusiasm</strong>, and coffee mug (optional - there is a kitchen next door). If you have data you want to work on then bring that too.
 
 <ul>
 <li> At <b>1:00pm</b> we meet, go through a quick round of introductions for those who are new, and post session ideas/projects onto the whiteboard.</li><br>
