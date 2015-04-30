@@ -38,7 +38,7 @@ For meeting updates and news please <a href="mailto:RIS@swin.edu.au?Subject=Plea
 Where & When: 
 -----
 
-Advanced Manufacturing and Design Centre (AMDC) Room 206. Nominally <strong>every Wednesday from 1-3pm unless otherwise stated</strong>. See the list of <a href="http://thehackerwithin.github.io/swinburne/upcoming.html">upcoming topics</a> for specific dates and times.
+Advanced Manufacturing and Design Centre (AMDC) Room 206. Nominally <strong>every Wednesday from 1-3pm unless otherwise stated</strong>. See the list of <a href="http://thehackerwithin.github.io/swinburne/upcoming.html">upcoming topics</a> for specific dates and times. <font color="#FF3300"> Late arrivals and early leavers welcome.</font>
 
 
 Who:
@@ -51,13 +51,13 @@ First time hackers need not be afraid! We will help set up laptops. You will be 
 What to bring:
 -----
 
-Participating is really easy. Just bring your;
+Participating is really easy. Just bring your:
 
 <ul>
 <li>laptop</li>
 <li>ideas</li>
 <li>enthusiasm</li>
-<li>coffee mug (optional - there is a kitchen next door)</li>
+<li>coffee mug (optional) - there is a kitchen next door to make tea</li>
 </ul>
 If you have data you want to work on then bring that too.
 
