@@ -54,7 +54,7 @@ What to bring:
 Participating is really easy. Just bring your:
 
 <ul>
-<li>laptop</li>
+<li><strong>laptop</strong></li>
 <li>ideas</li>
 <li>enthusiasm</li>
 <li>coffee mug (optional) - there is a kitchen next door to make tea</li>
