@@ -38,7 +38,7 @@ For meeting updates and news please <a href="mailto:RIS@swin.edu.au?Subject=Plea
 Where & When: 
 -----
 
-Advanced Manufacturing and Design Centre (AMDC) Room 206. Nominally <strong>every Wednesday from 1-3pm unless otherwise stated</strong>. See the list of <a href="http://thehackerwithin.github.io/swinburne/upcoming.html">upcoming topics</a> for specific dates and times. <font color="#FF3300"> Late arrivals and early leavers welcome.</font>
+Advanced Manufacturing and Design Centre (AMDC) Room 206. Nominally <strong>every Wednesday from 1-3pm unless otherwise stated</strong>. See the list of <a href="http://thehackerwithin.github.io/swinburne/upcoming.html">upcoming topics</a> for specific dates and times. <font color="#FF3300"><strong> Late arrivals and early leavers welcome</strong></font>.
 
 
 Who:
