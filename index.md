@@ -56,7 +56,7 @@ Participating is really easy. Just bring your;
 <ul>
 <li>laptop</li>
 <li>ideas</li>
-<li>, enthusiasm</li>
+<li>enthusiasm</li>
 <li>coffee mug (optional - there is a kitchen next door)</li>
 </ul>
 If you have data you want to work on then bring that too.
