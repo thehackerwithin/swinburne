@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Topic - to be determined - Note this session will run from *2-4pm*
+title: Getting the most out of iPython Notebook - Note this session will run from *2-4pm*
 author: 
 time: 2-4 PM
 location: AMDC 206
@@ -12,13 +12,12 @@ tags: visualisation
 
 Advanced Manufacturing and Design Centre - Room 206. Wednesday 21st May from 2-4pm.
 
-## Who?
+## Arna Karick
 
-If you would like to lead a discussion please contact the organiser.
+Arna is Swinburne’s e-Research Consultant, the organiser of Swinburne Hacker Within, and an astronomer by trade. 
 
-## Lightning talks
+## About iPython Notebook 
 
-No lighting talks are currently scheduled.
 
 ## Attended by?
 
