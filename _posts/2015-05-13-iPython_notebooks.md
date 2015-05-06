@@ -2,7 +2,7 @@
 layout: post
 title: Getting the most out of iPython Notebook - Note this session will run from *2-4pm*
 author: 
-time: 2-4 PM
+time: 1-3 PM
 location: AMDC 206
 category: upcoming
 tags: visualisation
@@ -10,7 +10,7 @@ tags: visualisation
 
 ## Where & When
 
-Advanced Manufacturing and Design Centre - Room 206. Wednesday 21st May from 2-4pm.
+Advanced Manufacturing and Design Centre - Room 206. Wednesday 13th May from 1-3pm.
 
 ## Arna Karick
 
