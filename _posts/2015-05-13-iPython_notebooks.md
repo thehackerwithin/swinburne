@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting the most out of iPython Notebook - Note this session will run from *2-4pm*
+title: Getting the most out of iPython Notebook
 author: 
 time: 1-3 PM
 location: AMDC 206
