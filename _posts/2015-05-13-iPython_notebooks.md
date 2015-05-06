@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting the most out of iPython Notebook
-author: 
+author: Arna Karick
 time: 1-3 PM
 location: AMDC 206
 category: upcoming
