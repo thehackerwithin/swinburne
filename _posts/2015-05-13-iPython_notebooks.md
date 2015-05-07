@@ -19,6 +19,7 @@ Arna is Swinburne’s e-Research Consultant, the organiser of Swinburne Hacker W
 ## About iPython Notebook 
 
 
-## Attended by?
-
-This event hasn't occured yet.
+## Attended by
+<ul>
+<li>Arna Karick, SHW organiser  &amp; e-Research Consultant (Swinburne Research)</li>
+</ul>
