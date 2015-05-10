@@ -10,7 +10,7 @@ tags: visualisation
 
 ## Where & When
 
-Advanced Manufacturing and Design Centre - Room 206. Wednesday 13th May from 1-3pm.
+Advanced Manufacturing and Design Centre - Room 206. Wednesday 3rd June from 1-3pm.
 
 ## Arna Karick
 
