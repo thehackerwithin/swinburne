@@ -34,12 +34,12 @@ title: "Links"
 ## Project Examples (Brag Book)
 
 <ul>
-<li><a href="http://www.physics.usyd.edu.au/~vmoss/jobvis/">Visualising the AAS Job Register</a> (uses LeafletJS)</li>
-<li><a href="http://ideas.theoj.org">The Journal of Brief Ideas</a></li>
-<li><a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=1Ew3qdqfPaDemmBy0zsdyBlL0QFCulJKqL_4Kea_AMWw&font=Bevan-PotanoSans&maptype=toner&lang=en&start_zoom_adjust=2&height=650">UTMOST telescope interactive timeline</a> (uses TimelineJS & Google spreadsheet) -- by Arna Karick </li>
-<li><a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AtZUlHbzLE_hdHJSeTZldGJJQW5RMFpfY0ZadjFDUGc&font=Bevan-PotanoSans&maptype=toner&lang=en&start_at_end=true&height=650">PLATYPUS survey interactive timeline</a>: a southern debris disk survey at 7mm. (uses TimelineJS & Google spreadsheet) -- by Elodie Thilliez </li>
-<li><a href="http://citeurl.herokuapp.com/search">CiteURL</a>: A web app that returns a link to the web page of an article given a citation (uses Python, Flask & Heroku) -- by Antonio Bibiano</li>
-<li><a href="http://evilangelpixie.github.io/d3js/">SHW Week 3 D3js tutorial</a> (uses Github, poole and Jekyll)-- by Samara Neilson</li>
+<li><a href="http://www.physics.usyd.edu.au/~vmoss/jobvis/" target="new">Visualising the AAS Job Register</a> - from .Astronomy6 conference (uses LeafletJS)</li>
+<li><a href="http://ideas.theoj.org" target="new">The Journal of Brief Ideas - from .Astronomy6 conference</a></li>
+<li><a href="http://citeurl.herokuapp.com/search" target="new">CiteURL</a>: A web app that returns a link to the web page of an article given a citation (uses Python, Flask & Heroku) -- by Antonio Bibiano</li><li><a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=1Ew3qdqfPaDemmBy0zsdyBlL0QFCulJKqL_4Kea_AMWw&font=Bevan-PotanoSans&maptype=toner&lang=en&start_zoom_adjust=2&height=650" target="new">UTMOST telescope interactive timeline</a> (uses TimelineJS & Google spreadsheet) -- by Arna Karick </li>
+<li><a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AtZUlHbzLE_hdHJSeTZldGJJQW5RMFpfY0ZadjFDUGc&font=Bevan-PotanoSans&maptype=toner&lang=en&start_at_end=true&height=650" target="new">PLATYPUS survey interactive timeline</a>: a southern debris disk survey at 7mm. (uses TimelineJS & Google spreadsheet) -- by Elodie Thilliez </li>
+<li><a href="http://evilangelpixie.github.io/d3js/" target="new">SHW Week 3 D3js tutorial</a> (uses Github, poole and Jekyll)-- by Samara Neilson</li>
+<li><a href="http://drarnakarick.github.io/software-carpentry-resources/" target="new">Software Carpentry Resources</a> (uses Github, poole and Jekyll &amp; D3js)-- by Arna Karick</li>
 </ul>
 
 </section>
