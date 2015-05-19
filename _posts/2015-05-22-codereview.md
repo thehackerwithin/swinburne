@@ -4,8 +4,8 @@ title: Introducing Astronomy Code Review
 author: 
 time: 4 PM
 location: AR 209
-category: posts
-tags: cartodb timelinejs visualisation
+category: upcoming
+tags: astronomy code 
 ---
 
 ## Where & When?
