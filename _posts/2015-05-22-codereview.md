@@ -14,9 +14,9 @@ AR Building - Room 209. Friday 22nd May from 4pm.<br>
 
 ## About Code Review
 
-Once a fortnight Ewan Barr and Neil Crighton host a Code Review/Tutorial session open to all members of the Centre for Astrophysics Supercomputing. Primarily this will act as a help desk / discussion forum / review panel for scientific computing. We wish to keep this informal and invite anyone to bring along problems that they have that can be discussed with experts (one-on-one) or with a wider group. In the event of no specific topic or problem to address, we will use this time to give some rapid tutorials into various languages and tools that will help turn you into a productive coder capable of producing extensible, well designed, functional code with the minimum of effort.
+Once a fortnight Ewan Barr and Neil Crighton host a Code Review/Tutorial session open to all members of the Centre for Astrophysics Supercomputing (CAS). Primarily this acts as a help desk / discussion forum / review panel for scientific computing for astronomy researchers. These sessions are informal and CAS researchers are encouraged to bring along problems that they have that can be discussed with experts (one-on-one) or with a wider group. In the event of no specific topic or problem to address, we will use this time to give some rapid tutorials into various languages and tools that will help turn you into a productive coder capable of producing extensible, well designed, functional code with the minimum of effort.
 
-All tutorials will be live-coded and the codes+outputs will be hosted on GitHub (https://github.com/ewanbarr/CAS_Code_Review) for people to download and play with.
+All tutorials will be live-coded and the codes+outputs will be hosted on [GitHub - CAS Code Review](https://github.com/ewanbarr/CAS_Code_Review) for people to download and play with.
 
 ## This weeks topic - Introducing Astronomy Code Review 
 
