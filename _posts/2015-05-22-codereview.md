@@ -14,7 +14,7 @@ AR Building - Room 209. Friday 22nd May from 4pm.<br>
 
 ## About Code Review
 
-Once a fortnight Ewan Barr and Neil Crighton host a Code Review/Tutorial session open to all members of the Centre for Astrophysics Supercomputing (CAS). Primarily this acts as a help desk / discussion forum / review panel for scientific computing for astronomy researchers. These sessions are informal and CAS researchers are encouraged to bring along problems that they have that can be discussed with experts (one-on-one) or with a wider group. In the event of no specific topic or problem to address, we will use this time to give some rapid tutorials into various languages and tools that will help turn you into a productive coder capable of producing extensible, well designed, functional code with the minimum of effort.
+Astronomy Code Review is organised by [Ewan Barr](http://astronomy.swin.edu.au/staff/ebarr.html) and [Neil Crighton](http://astronomy.swin.edu.au/staff/ncrighton.html). Once a fortnight Ewan and Neil host a Code Review/Tutorial session open to all members of the Centre for Astrophysics Supercomputing (CAS). Primarily this acts as a help desk / discussion forum / review panel for scientific computing for astronomy researchers. These sessions are informal and CAS researchers are encouraged to bring along problems that they have that can be discussed with experts (one-on-one) or with a wider group. In the event of no specific topic or problem to address, the session will be used for some rapid tutorials into various languages and tools that will help turn you into a productive coder capable of producing extensible, well designed, functional code with the minimum of effort.
 
 All tutorials will be live-coded and the codes+outputs will be hosted on [GitHub - CAS Code Review](https://github.com/ewanbarr/CAS_Code_Review) for people to download and play with.
 
@@ -25,6 +25,6 @@ If there is time we will have a short introduction to Ipython notebook looking a
 
 ## Who should attend
 
-These Friday afternoon code review sessions are primarily for astronomy researchers. 
+These Friday afternoon code review sessions are primariy for astronomy researchers. Non-astronomers wishing to partipate should contact the organisers directly. 
 
 
