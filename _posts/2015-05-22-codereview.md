@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Astronomy Code Review (for CAS researchers only)
+title:  Astronomy Code Review (for CAS researchers)
 author: Ewan Barr & Neil Crighton 
 time: 4 PM
 location: AR 209
@@ -25,6 +25,6 @@ If there is time we will have a short introduction to iPython Notebook looking a
 
 ## Who should attend
 
-These Friday afternoon code review sessions are primariy for astronomy researchers. Non-astronomers wishing to partipate should contact the organisers directly. 
+These Friday afternoon code review sessions are primariy for astronomy researchers. Non-astronomers wishing to partipate should contact Ewan or Neil directly. 
 
 
