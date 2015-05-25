@@ -64,9 +64,9 @@ How:
 -----
 
 <ul>
-<li> At <b>1:00pm</b> we meet, go through a quick round of introductions for those who are new, and post session ideas/projects onto the whiteboard.</li><br>
-<li> Every second week someone will give a short tutorial or lead a discussion about a topic, or introduce a new web tool they recently discovered. This topic can be anything. It may be some new skill you have recently picked up in your research, a productivity tool you have recently learned to love, an overview of a useful library, or anything you feel we would enjoy learning.</li><br>
-<li> The rest of the session will be spent learning new tools, or working on new projects. There will be plenty of time for Lightning Talks, 5-10 minute blasts of information about a particular topic or question of interest to the group. Note that the lightning talk time is a good way to bring a question to the group. If you have a bug you need help with, here’s the place to ask many ears about it at once.</li>
+<li> Turn up at <b>1:30pm</b>, introduce yourself and add your session ideas/project onto the whiteboard.</li><br>
+<li> During each session there may be a short tutorial or a discussion about a specific topic. Participants are encouraged to share ideas or tell everyone about a new web tool they recently discovered. It may be some new skill you have recently picked up in your research, a productivity tool you have recently learned to love, an overview of a useful library, or anything you feel we would enjoy learning.</li><br>
+<li> The rest of the session will be spent learning new tools, or working on new projects. There is also time for Lightning Talks, 5 minute blasts of information about a particular topic or question of interest to the group. Note that the lightning talk time is a good way to bring a question to the group. If you have a bug you need help with, here’s the place to ask many ears about it at once.</li>
 
 </ul>
 
