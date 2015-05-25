@@ -22,12 +22,10 @@ The {{ site.name }}, {{ site.chapter }}
 What:
 -----
 
-Swinburne Hacker Within is a two-hour weekly informal meetup for Swinburne PhD students, technical staff involved in big-data projects, and researchers at all levels and from all disciplines. It's about learning new web-skills, gaining experience with programming languages, trouble shooting existing problems, and helping one another to create innovative research tools and projects to enhance your research (or other interests). It's mainly about having fun, sharing ideas, and finding your hacker within.
+Swinburne Hacker Within is a 1.5 hour weekly informal meetup for Swinburne PhD students, technical staff and researchers at all levels and from all disciplines. It's about learning new web-skills, learning new tools, gaining experience with programming languages, trouble shooting existing problems, and helping one another to create innovative research tools and projects to enhance your own research (or other interests). It's mainly about having fun, sharing ideas, and finding your hacker within.
 
-No previous programming/hacking experience is necessary. Each session will be based around a theme and will include a
-short talk or demonstration to generate ideas. Researchers are welcome to follow along, or just work independently or
-in groups on their on their own projects. Participants are encouraged to work together, share ideas and skills, and 
-propose topics for future sessions.
+No previous programming/hacking experience is necessary. Each session will be based around a theme and may include a
+short talk or demonstration to generate ideas. Some sessions may include a guided tutorial,  if not there will always be an  "expert" on hand to help you get started. Participants are welcome to follow along, or work independently or in groups on their on their own projects. Participants are encouraged to share ideas and skills, and  propose topics for future sessions.
 
 Initial sessions will focus on data visualisation tools for research, creating research websites and blogs, and learning about software repositories like GitHub and useful tools to make programming easier, e.g. iPython Notebook. More advanced topics may be thrown in from time to time.
 
@@ -72,7 +70,7 @@ How:
 
 </ul>
 
-The Hacker Within relies on peer-driven teaching, so please volunteer to lead a topic or discussion. If you have any other questions about the meetup feel free to email the organiser.
+The Hacker Within relies on peer-driven teaching, so please feel free volunteer to lead a topic or discussion. If you have any other questions about the meetup please email the organiser.
 
 Links to resources and projects:
 -----
