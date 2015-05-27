@@ -18,10 +18,9 @@ Astronomy Code Review is organised by [Ewan Barr](http://astronomy.swin.edu.au/s
 
 All tutorials will be live-coded and the code and outputs will be hosted on [GitHub - CAS Code Review](https://github.com/ewanbarr/CAS_Code_Review) for people to download and play with.
 
-## This weeks topic - Introducing Astronomy Code Review 
+## This weeks topic - Bring your code for review
 
-This will primarily be a discussion/brainstorming session on what people would like to see from code review and how we can make this activity as useful as possible for as many people as possible.
-If there is time we will have a short introduction to iPython Notebook looking at how to get the most from it. People are also welcome to bring a coding problem before hand. Ideally if you have a problem, copy and paste it into [https://gist.github.com/](https://gist.github.com/) so that others can assess the problem prior to the code review session.
+Ideally if you have a problem, copy and paste it into [https://gist.github.com/](https://gist.github.com/) so that others can assess the problem prior to the code review session.
 
 ## Who should attend
 
