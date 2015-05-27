@@ -20,7 +20,7 @@ All tutorials will be live-coded and the code and outputs will be hosted on [Git
 
 ## This weeks topic - Bring your code for review
 
-Ideally if you have a problem, copy and paste it into [https://gist.github.com/](https://gist.github.com/) so that others can assess the problem prior to the code review session.
+Ideally if you have a problem, copy and paste it into [https://gist.github.com/](https://gist.github.com/) so that others can assess the problem prior to the code review session. Alternatively initiate a discussion on the #code_review Slack channel.
 
 ## Who should attend
 
