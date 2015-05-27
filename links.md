@@ -12,7 +12,7 @@ title: "Links"
 <li><a href="http://scsc.wtf">Swinburne Cyber Security Club</a></li>
 <li><a href="http://cartodb.com">CartoDB</a>: Mapping for Researchers</li>
 <li><a href="http://leafletjs.com"> LeafletJS</a>: Open-source JavaScript library for mobile-friendly interactive maps.</li>
-<li>[Open Street Map](https://www.openstreetmap.org)</li>
+<li><a href="https://www.openstreetmap.org">Open Street Map</a></li>
 <li><a href="http://timeline.knightlab.com">TimelineJS</a>: Beautifully crafted timelines that are easy and intuitive to use.</li>
 <li><a href="http://d3js.org">D3js.org</a>: Data-driven Documents Javascript library</li>
 
