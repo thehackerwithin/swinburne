@@ -21,7 +21,7 @@ The [IPython Notebook](http://ipython.org/notebook.html) is an interactive compu
 
 They are plain text files, which are thus easy to share with colleagues and place under version control. But, by using the JSON format, they can record all aspects of the computation, including embedding rich media output. The standard file extension for notebook documents is .ipynb.
 
-**Features of the IPython Notebook app include:**
+###Features of the IPython Notebook app include:###
 
 * Display rich data representations (e.g. HTML / LaTeX / SVG) in the browser as a result of computations.
 * Compose rich text using Markdown and HTML.
@@ -30,9 +30,9 @@ They are plain text files, which are thus easy to share with colleagues and plac
 * In-browser editing, syntax highlighting, tab completion and autoindentation.
 * Inline figures rendered by the matplotlib library with publication quality, in a range of formats (SVG / PDF / PNG).
 
-**Video: IPython in Depth  **
+###Video: IPython in Depth###
 
-For a thorough introduction to the IPython Notebook, you can check out the IPython in Depth tutorial from the SciPy 2013 scientific Python conference, led by the two creators of the IPython package, Fernando Pérez and Brian Granger:
+For a thorough introduction to the IPython Notebook, you can check out the [IPython in Depth tutorial](https://www.youtube.com/watch?t=10&v=xe_ATRmw0KM) from the SciPy 2013 scientific Python conference, led by the two creators of the IPython package, Fernando Pérez and Brian Granger:
 ## Attended by:
 <ul>
 <li>Arna Karick, SHW organiser  &amp; e-Research Consultant (Swinburne Research)</li>
