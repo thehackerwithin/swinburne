@@ -19,7 +19,7 @@ Arna is Swinburne’s e-Research Consultant, the organiser of Swinburne Hacker W
 ## About IPython Notebook
 The [IPython Notebook](http://ipython.org/notebook.html) is an interactive computational environment, in which you can combine code execution, rich text, mathematics, plots and rich media. It aims to be an agile tool for both exploratory computation and data analysis, and provides a platform to support reproducible research, since all inputs and outputs may be stored in a one-to-one way in notebook documents. These notebooks are files which record all computations carried out and the results obtained in a literate way, including inputs, outputs, together with descriptive text and mathematics.
 
-They are plain text files, which are thus easy to share with colleagues and place under version control. But, by using the JSON format, they can record all aspects of the computation, including embedding rich media output. The standard file extension for notebook documents is .ipynb.
+They are plain text files, which are thus easy to share with colleagues and place under version control. But, by using the JSON format, they can record all aspects of the computation, including embedding rich media output. The standard file extension for notebook documents is .ipynb. [Examples of notebooks](http://nbviewer.ipython.org/)
 
 ###Features of the IPython Notebook app include:###
 
@@ -29,6 +29,8 @@ They are plain text files, which are thus easy to share with colleagues and plac
 * Import standard Python scripts.
 * In-browser editing, syntax highlighting, tab completion and autoindentation.
 * Inline figures rendered by the matplotlib library with publication quality, in a range of formats (SVG / PDF / PNG).
+
+
 
 ###Video: IPython in Depth###
 
