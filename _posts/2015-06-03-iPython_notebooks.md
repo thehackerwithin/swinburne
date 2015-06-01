@@ -19,7 +19,7 @@ Arna is Swinburne’s e-Research Consultant, the organiser of Swinburne Hacker W
 ## About IPython Notebook
 The [IPython Notebook](http://ipython.org/notebook.html) is an interactive computational environment, in which you can combine code execution, rich text, mathematics, plots and rich media. It aims to be an agile tool for both exploratory computation and data analysis, and provides a platform to support reproducible research, since all inputs and outputs may be stored in a one-to-one way in notebook documents.
 
-<strong>Some of the main features of the IPython Notebook app include:</strong>
+<strong>Features of the IPython Notebook app include:</strong>
 
 * Display rich data representations (e.g. HTML / LaTeX / SVG) in the browser as a result of computations.
 * Compose rich text using Markdown and HTML.
