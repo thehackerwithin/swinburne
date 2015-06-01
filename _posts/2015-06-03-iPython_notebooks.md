@@ -36,7 +36,7 @@ For a thorough introduction to the IPython Notebook, you can check out the [IPyt
 
 ###More resources to help you get started###
 
-###Video: IPython in Depth###
+IPython [Notebook tutorial](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/03_IPython_intro) by [Jake VanderPlas](http://www.astro.washington.edu/users/vanderplas/), Director of Research for Physical Sciences at UW's eScience Institute.
 
 ## Attended by:
 <ul>
