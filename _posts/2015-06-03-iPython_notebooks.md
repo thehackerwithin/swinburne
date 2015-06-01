@@ -30,11 +30,14 @@ They are plain text files, which are thus easy to share with colleagues and plac
 * In-browser editing, syntax highlighting, tab completion and autoindentation.
 * Inline figures rendered by the matplotlib library with publication quality, in a range of formats (SVG / PDF / PNG).
 
-
-
 ###Video: IPython in Depth###
 
 For a thorough introduction to the IPython Notebook, you can check out the [IPython in Depth tutorial](https://www.youtube.com/watch?t=10&v=xe_ATRmw0KM) from the SciPy 2013 scientific Python conference, led by the two creators of the IPython package, Fernando Pérez and Brian Granger:
+
+###More resources to help you get started###
+
+###Video: IPython in Depth###
+
 ## Attended by:
 <ul>
 <li>Arna Karick, SHW organiser  &amp; e-Research Consultant (Swinburne Research)</li>
