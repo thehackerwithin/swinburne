@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SQL School from Mode Analytics
+title: SQL School from Mode Analytics -- Note this session will run on *Thursday*
 author: Arna Karick
 time: 1:30 -3 PM
 location: AMDC 206
@@ -10,7 +10,7 @@ tags: visualisation
 
 ## Where & When
 
-Advanced Manufacturing and Design Centre - Room 206. Wednesday 10th June from 1:30 - 3pm.
+Advanced Manufacturing and Design Centre - Room 206. Thursday 25th June from 1:30 - 3pm.
 
 # About Mode Analytics
 
