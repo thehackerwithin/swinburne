@@ -7,6 +7,7 @@ location: AMDC 206
 category: upcoming
 tags: visualisation
 ---
+This week's Swinburne Hacker Within (SHW) topic is iPython Notebooks. We will briefly go through the basics of launching a Notebook and how you can make them public. We will also look at some online examples. Experienced IPython Notebook users please come along and share your tips and tricks. You are most welcome to demo your own Notebooks.
 
 ## Where & When
 
