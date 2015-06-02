@@ -19,6 +19,7 @@ title: "Links"
 <li><a href="http://codepen.io">CodePen</a>: Front end developer playground and in-browser code editor</li>
 <li><a href="http://codepen.io/mbostock/pen/Jaemg">Bar Chart CodePen template</a></li>
 <li><a href="http://raphaeljs.com">Raphael</a>: a small JavaScript library that should simplify your work with vector graphics on the web</li>
+<li><a href="http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/">Mining the Social Web - IPython Notebook </li>
 </ul>
 
 ## Great Blogs
