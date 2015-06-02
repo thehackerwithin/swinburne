@@ -12,10 +12,6 @@ tags: visualisation
 
 Advanced Manufacturing and Design Centre - Room 206. Wednesday 3rd June from 1:30 - 3pm.
 
-## Arna Karick
-
-Arna is Swinburne’s e-Research Consultant, the organiser of Swinburne Hacker Within, and an astronomer by trade. 
-
 ## About IPython Notebook
 The [IPython Notebook](http://ipython.org/notebook.html) is an interactive computational environment, in which you can combine code execution, rich text, mathematics, plots and rich media. It aims to be an agile tool for both exploratory computation and data analysis, and provides a platform to support reproducible research, since all inputs and outputs may be stored in a one-to-one way in notebook documents. These notebooks are files which record all computations carried out and the results obtained in a literate way, including inputs, outputs, together with descriptive text and mathematics.
 
