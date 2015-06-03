@@ -37,6 +37,16 @@ For a thorough introduction to the IPython Notebook, you can check out the [IPyt
 * Some notes from Berkeley's Hacker Within [session on IPython Notebook](http://thehackerwithin.github.io/berkeley/posts/ipython/)
 
 ## Attended by:
-<ul>
-<li>Arna Karick, SHW organiser  &amp; e-Research Consultant (Swinburne Research)</li>
+
+* Arna Karick, SHW organiser  &amp; e-Research Consultant & astro by trade (Swinburne Research)
+* Samara Neilson  &amp; Research Data Coordinator(Swinburne Research)
+* Neil Crighton, Post-doc  (Centre for Astrophysics & Supercomputing - CAS)
+* Srdan Kotus, PhD student  (Centre for Astrophysics & Supercomputing - CAS)
+* Nicole Ronald, Research staff (Dept of Computer Science and Software Engineering)
+* Leon Hartman, Honours Student (Department of Chemistry and Biotechnology)
+* Guido Moyano Loyola (Centre for Astrophysics & Supercomputing - CAS)
+* Nicola Pastorello, PhD student  (Centre for Astrophysics & Supercomputing - CAS)
+* Elodie Thilliez, PhD student  (Centre for Astrophysics & Supercomputing - CAS)
+* Damien Hicks, Research Fellow (Centre for Micro-Photonics - CMP)
+* Ian Morrison, Post-doc (Centre for Astrophysics & Supercomputing - CAS)
 </ul>
