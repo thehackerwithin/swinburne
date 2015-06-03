@@ -35,7 +35,7 @@ They are plain text files, which are thus easy to share with colleagues and plac
 * Some random notes from Berkeley's Hacker Within [session on IPython Notebook](http://thehackerwithin.github.io/berkeley/posts/ipython/) that talk about IPython Notebooks, GitHub and Magics.
 
 ###Setting up IPython and Notebook###
-* via [Ureka (STScI)](http://ssb.stsci.edu/ureka/) -- You may need to (install dependencies)[http://ipython.org/ipython-doc/stable/install/install.html] afterwards but it's not that difficult. Ureka includes IRAF and PyRAF which is why I chose this route. I also didn't want multiple Python installations clogging my laptop i.e. Anaconda. The Python 2.7.5 comes with Ureka and the notebook viewer is the original 'IPython Notebook' 
+* via [Ureka (STScI)](http://ssb.stsci.edu/ureka/) -- You may need to [install dependencies](http://ipython.org/ipython-doc/stable/install/install.html) afterwards but it's not that difficult. Ureka includes IRAF and PyRAF which is why I chose this route. I also didn't want multiple Python installations clogging my laptop i.e. Anaconda. The Python 2.7.5 comes with Ureka and the notebook viewer is the original 'IPython Notebook' 
 * via [Anaconda](https://store.continuum.io/cshop/anaconda/). Most peopel recommend this route because Anaconda will install everything. It will give you a more recent version, Python 3.4 and your notebook viewer will be 'Jupyter'. 
 * If you need help installing things feel free to ask me during any of the Hacker Within sessions.
 
