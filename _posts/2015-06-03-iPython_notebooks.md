@@ -34,6 +34,12 @@ They are plain text files, which are thus easy to share with colleagues and plac
 * IPython [Notebook tutorial](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/03_IPython_intro) by [Jake VanderPlas](http://www.astro.washington.edu/users/vanderplas/), a research astronomer and Director of Research for Physical Sciences at UW's eScience Institute.
 * Some random notes from Berkeley's Hacker Within [session on IPython Notebook](http://thehackerwithin.github.io/berkeley/posts/ipython/) that talk about IPython Notebooks, GitHub and Magics.
 
+###Setting up IPython and Notebook###
+* via [Ureka (STScI)](http://ssb.stsci.edu/ureka/) -- You may need to (install dependencies)[http://ipython.org/ipython-doc/stable/install/install.html] afterwards but it's not that difficult. Ureka includes IRAF and PyRAF which is why I chose this route. I also didn't want multiple Python installations clogging my laptop i.e. Anaconda. The Python 2.7.5 comes with Ureka and the notebook viewer is the original 'IPython Notebook' 
+* via [Anaconda](https://store.continuum.io/cshop/anaconda/). Most peopel recommend this route because Anaconda will install everything. It will give you a more recent version, Python 3.4 and your notebook viewer will be 'Jupyter'. 
+* If you need help installing things feel free to ask me during any of the Hacker Within sessions.
+
+
 ##What we talked about##
 
 After a bit of a rocky start (room booking/ITS issues - apologies folks) we launched straight into a somewhat haphazard discussion about who currently uses IPython Notebooks, why you might want to use the, the emerging culture of open data and reproducible science, and current issues faced by new users. We looked at a couple of examples of simple notebooks on the web. Here is the IPython Notebook I started on Crisis Mapping in Nepal (very much work in progress). BTW - keep my notebooks in a separate **/user/akarick/Notebook/** directory, and launch **akarick>ipython notebook** from there. For later versions of Python (3+) the viewer is [Jupyter](http://ipython.org). This is what you would have installed if you attended the [Unix/Python Software Carpentry](http://drarnakarick.github.io/2015-05-04-swinpython/) workshop. The second example was this [Evolution of Swarming](http://www.randalolson.com/2012/05/12/a-short-demo-on-how-to-use-ipython-notebook-as-a-research-notebook/) notebook which you can downloaded along with data files. If you have new to IPython I recommend downloading this, launching and editing all the different cells. 
@@ -44,7 +50,7 @@ Moving existing code/projects to IPython Notebook may be more effort than it's w
 
 [nbviewer](http://nbviewer.ipython.org) is a really useful site for sharing notebooks and I've found some good tutorials on web-scraping (e.g. [Mining the Social Web, 2nd Edition](http://nbviewer.ipython.org/github/jrmontag/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)) and other programming languages.
 
-Neil gave a short presentation with examples of hisown Notebooks and talked about why he uses them, how they are organised, and showed us some  really useful features including the ability to mix-and-match markdown, HTML and Latex math in essenaitally text paragraphs, sharing Noteboooks using [Gist](https://gist.github.com) (rather than nbviewer) and converting Notebooks to latex and HTML and PDF from the command line. 
+Neil gave a short presentation with examples of hisown Notebooks and talked about why he uses them, how they are organised, and showed us some  really useful features including the ability to mix-and-match markdown, HTML and Latex math in essentially text paragraphs, sharing Noteboooks using [Gist](https://gist.github.com) (rather than nbviewer) and converting Notebooks to latex and HTML and PDF from the command line. 
 
 ###More links###
 * [multiple notebooks used to reproduce a paper analysis](https://github.com/theandygross/TCGA/tree/master/Analysis_Notebooks#guide-to-running) 
