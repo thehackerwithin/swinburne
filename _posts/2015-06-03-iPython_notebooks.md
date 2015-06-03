@@ -31,10 +31,17 @@ They are plain text files, which are thus easy to share with colleagues and plac
 
 For a thorough introduction to the IPython Notebook, you can check out the [IPython in Depth tutorial](https://www.youtube.com/watch?t=10&v=xe_ATRmw0KM) from the SciPy 2013 scientific Python conference, led by the two creators of the IPython package, Fernando Pérez and Brian Granger:
 
-###More resources to help you get started###
+###Resources to help you get started###
 
-* IPython [Notebook tutorial](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/03_IPython_intro) by [Jake VanderPlas](http://www.astro.washington.edu/users/vanderplas/), Director of Research for Physical Sciences at UW's eScience Institute.
-* Some notes from Berkeley's Hacker Within [session on IPython Notebook](http://thehackerwithin.github.io/berkeley/posts/ipython/)
+* [Getting Started with the IPython Notebook](https://blog.safaribooksonline.com/2013/12/12/start-ipython-notebook/). A  succinct step-by-step guide to installing and launching Notebooks.
+* 
+* IPython [Notebook tutorial](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/03_IPython_intro) by [Jake VanderPlas](http://www.astro.washington.edu/users/vanderplas/), a research astronomer and Director of Research for Physical Sciences at UW's eScience Institute.
+* Some random notes from Berkeley's Hacker Within [session on IPython Notebook](http://thehackerwithin.github.io/berkeley/posts/ipython/) that talk about IPython Notebooks, GitHub and Magics.
+* 
+##What we talked about###
+After a bit of a rocky start (room booking/ITS issues - apologies folks) we launched straight into a discussion about who currently uses IPython Notebooks, who plans on using it, the emerging culture of open data and reproducible science, and ways in which you can use IPython Notebooks. We then looked at a couple of examples of simple notebooks on the web. Here is the IPython Notebook I started on Crisis Mapping in Nepal (very much work in progress). I keep my notebooks in a separate '/user/akarick/Notebook/' directory, and launch 'akarick> ipython notebook' from there.
+
+
 
 ## Attended by:
 
@@ -43,7 +50,7 @@ For a thorough introduction to the IPython Notebook, you can check out the [IPyt
 * Neil Crighton, Post-doc  (Centre for Astrophysics & Supercomputing - CAS)
 * Srdan Kotus, PhD student  (Centre for Astrophysics & Supercomputing - CAS)
 * Nicole Ronald, Research staff (Dept of Computer Science and Software Engineering)
-* Leon Hartman, Honours Student (Department of Chemistry and Biotechnology)
+* Leon Hartman, Honours Student - Bioscience (Department of Chemistry and Biotechnology)
 * Guido Moyano Loyola (Centre for Astrophysics & Supercomputing - CAS)
 * Nicola Pastorello, PhD student  (Centre for Astrophysics & Supercomputing - CAS)
 * Elodie Thilliez, PhD student  (Centre for Astrophysics & Supercomputing - CAS)
