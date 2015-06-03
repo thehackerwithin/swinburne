@@ -12,10 +12,6 @@ Upcoming Topics
 
 Swinburne Hacker Within will explore the following tentative set of topics over the next few months. In addition to these, Lightning Talks are welcome at the end of every session, so feel free to bring some tidbit to share. Also, if you would like to suggest a to a topic and/or present a short talk or tutorial please send an email to the organiser.
 
-[SHW Public Google Calendar](https://www.google.com/calendar/render?tab=mc&pli=1#main_7%7Cmonth)
-<iframe src="https://www.google.com/calendar/embed?src=swinburne.eresearch%40gmail.com&ctz=Australia/Hobart" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-
 **Scheduled meetups**
 
 <ul class="listing">
