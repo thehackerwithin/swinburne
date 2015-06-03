@@ -14,6 +14,9 @@ Swinburne Hacker Within will explore the following tentative set of topics over 
 
 **Scheduled meetups**
 
+[SHW Public Google Calendar](https://www.google.com/calendar/render?tab=mc&pli=1#main_7%7Cmonth)
+
+
 <ul class="listing">
 {% assign upcoming = (site.posts | where: "category", "upcoming") %}
 {% for post in upcoming reversed %}
