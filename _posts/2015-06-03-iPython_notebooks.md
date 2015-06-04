@@ -36,9 +36,8 @@ They are plain text files, which are thus easy to share with colleagues and plac
 
 ###Setting up IPython and Notebook###
 * via [Ureka (STScI)](http://ssb.stsci.edu/ureka/) -- You may need to [install dependencies](http://ipython.org/ipython-doc/stable/install/install.html) afterwards but it's not that difficult. Ureka includes IRAF and PyRAF which is why I chose this route. I also didn't want multiple Python installations clogging my laptop i.e. Anaconda. The Python 2.7.5 comes with Ureka and the notebook viewer is the original 'IPython Notebook'.  I keep my notebooks and relaated data in a separate **/user/akarick/Notebook/** directory, and launch **akarick>ipython notebook** from there.
-* via [Anaconda](https://store.continuum.io/cshop/anaconda/). Most peopel recommend this route because Anaconda will install everything. It will give you a more recent version, Python 3.4 and your notebook viewer will be 'Jupyter'. This is what you would have installed if you attended the [Unix/Python Software Carpentry](http://drarnakarick.github.io/2015-05-04-swinpython/) workshop.
-* If you need help installing things feel free to ask me during any of the Hacker Within sessions.
-
+* via [Anaconda](https://store.continuum.io/cshop/anaconda/). Most people recommend this route because Anaconda will install everything. It will give you a more recent version, Python 3.4 and your notebook viewer will be 'Jupyter'. This is what you would have installed if you attended the [Unix/Python Software Carpentry](http://drarnakarick.github.io/2015-05-04-swinpython/) workshop.
+* If you need help installing things (on MacOSX) feel free to ask me during any of the Hacker Within sessions (Astros - Vivek is your go-to guy for Linux and Windows laptops.)
 
 ##What we talked about##
 
