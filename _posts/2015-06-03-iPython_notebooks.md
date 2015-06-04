@@ -45,11 +45,11 @@ After a bit of a rocky start (room booking/ITS issues - apologies folks) we laun
 
 Another great example is this Notebook that uses [Plotly](https://plot.ly/feed/) and [CartoDB](https://plot.ly/ipython-notebooks/cartodb/) to [visualise earthquake data](https://plot.ly/ipython-notebooks/cartodb/).
 
-Moving existing code/projects to IPython Notebook may be more effort than it's worth, especially if you use multiple scripts in multiple languages (eg. IDL + shell scripts + python), or if your datasets/analysis are really complex. IPython Notebook seems to be great for: describing how you analysed data or wrote your pipeline and sharing this with your collaborators, creating tutorials/teaching materials, supplementing public code with a comprehensive descrtipion, creating webpages that include html, text and code, or writing how-to-guides etc. 
+Moving existing code/projects to IPython Notebook may be more effort than it's worth, especially if you use multiple scripts in multiple languages (e.g. IDL + shell scripts + python), or if your datasets/analysis are really complex. IPython Notebook seems to be great for: describing how you analysed data or wrote your pipeline and sharing this with your collaborators, creating tutorials/teaching materials, supplementing public code with a comprehensive description, creating webpages that include html, text and code, or writing how-to-guides etc. 
 
 [nbviewer](http://nbviewer.ipython.org) is a really useful site for sharing notebooks and I've found some good tutorials on web-scraping (e.g. [Mining the Social Web, 2nd Edition](http://nbviewer.ipython.org/github/jrmontag/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)) and other programming languages.
 
-Neil gave a short presentation with examples of hisown Notebooks and talked about why he uses them, how they are organised, and showed us some  really useful features including the ability to mix-and-match markdown, HTML and Latex math in essentially text paragraphs, sharing Noteboooks using [Gist](https://gist.github.com) (rather than nbviewer) and converting Notebooks to latex and HTML and PDF from the command line. 
+Neil gave a short presentation with examples of his own Notebooks and talked about why he uses them, how they are organised, and showed us some really useful features including the ability to mix-and-match markdown, HTML and Latex math in essentially text paragraphs, sharing Notebooks using [Gist](https://gist.github.com) (rather than nbviewer) and converting Notebooks to latex and HTML and PDF from the command line. 
 
 ###More links###
 * [multiple notebooks used to reproduce a paper analysis](https://github.com/theandygross/TCGA/tree/master/Analysis_Notebooks#guide-to-running) 
