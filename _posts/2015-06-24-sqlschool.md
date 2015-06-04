@@ -12,11 +12,11 @@ tags: visualisation
 
 Advanced Manufacturing and Design Centre - Room 206. Wednesday 24th June from 2 - 3:30pm.
 
-# About Mode Analytics
+## About Mode Analytics ##
 
 [Mode Analytics](https://modeanalytics.com) is the best place for analytical work: write SQL, share ad-hoc analysis, and build powerful visualizations to help everyone make better decisions. Mode is a collaborative analytics platform that makes it easy to analyze data and share Results. These lessons, quizzes, and deep-dives are designed to train anyone to work with data.
 
-# About SQL School 
+## About SQL School ##
 
 The [SQL School tutorials](http://sqlschool.modeanalytics.com) are designed for people who want to answer questions with data. For many, SQL is the "meat and potatoes" of data analysis —it is used for accessing, cleaning, and analyzing data that is stored in databases. It's very easy to learn, but is employed by the world's largest companies to solve incredibly challenging problems.
 
