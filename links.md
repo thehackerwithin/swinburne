@@ -16,13 +16,19 @@ title: "Links"
 * [Open Street Map](https://www.openstreetmap.org)
 * [TimelineJS](http://timeline.knightlab.com): Beautifully crafted timelines that are easy and intuitive to use.
 * [Bar Chart CodePen template](http://codepen.io/mbostock/pen/Jaemg)
-
+* [Tableau Public](https://public.tableau.com/s/) free tool for visualising data
+* [OdysseyJS](https://github.com/CartoDB/odyssey.js/): Javascript library that allows you to combine maps, narratives, and other multimedia into a beautiful story.
+* [WebGL](https://get.webgl.org): a JavaScript API for rendering interactive 3D graphics and 2D graphics within any compatible web browser without the use of plug-ins.
 
 ### Tools 
 
 * [CodePen](http://codepen.io): Front end developer playground and in-browser code editor.
 * [Raphael](http://raphaeljs.com): a small JavaScript library that should simplify your work with vector graphics on the web.
 * [Mining the Social Web](http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)
+* [OpenRefine](http://openrefine.org): a powerful tool for working with messy data.
+* [Omeka](http://omeka.org): an open source web publishing platform for creating online exhibitions.
+* [Omeka CSV plugin](http://omeka.org/add-ons/plugins/csv-import/): allows users to import items from a simple CSV file, and then map the CSV column data to multiple elements, files, and/or tags.
+ 
 
 ### Version Control 
 
@@ -50,7 +56,8 @@ title: "Links"
 ### Hacking 
 
 * [Mozilla Science Lab - Mozsprint](https://forum.mozillascience.org/t/mozsprint-projects-where-to-start/239)
-* [Random Hacks of Kindness (RHoK)](http://www.rhokaustralia.org)
+* [Random Hacks of Kindness (RHoK)](http://www.rhokaustralia.org): hacking for humanity
+* [Paperweight](http://paperweight.readthedocs.org/en/latest/): a Python package for hacking LaTeX documents.
 
 ### Great Blogs
 
