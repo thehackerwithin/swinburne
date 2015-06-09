@@ -28,7 +28,8 @@ title: "Links"
 * [OpenRefine](http://openrefine.org): a powerful tool for working with messy data.
 * [Omeka](http://omeka.org): an open source web publishing platform for creating online exhibitions.
 * [Omeka CSV plugin](http://omeka.org/add-ons/plugins/csv-import/): allows users to import items from a simple CSV file, and then map the CSV column data to multiple elements, files, and/or tags.
- 
+* [Paperweight](http://paperweight.readthedocs.org/en/latest/): a Python package for hacking LaTeX documents.
+* [Kimono](https://www.kimonolabs.com/about): web text scraper - lets you turn websites into APIs in seconds.
 
 ### Version Control 
 
@@ -53,11 +54,8 @@ title: "Links"
 * [Choose a license](http://choosealicense.com)
 * 
 
-### Hacking 
 
-* [Mozilla Science Lab - Mozsprint](https://forum.mozillascience.org/t/mozsprint-projects-where-to-start/239)
-* [Random Hacks of Kindness (RHoK)](http://www.rhokaustralia.org): hacking for humanity
-* [Paperweight](http://paperweight.readthedocs.org/en/latest/): a Python package for hacking LaTeX documents.
+
 
 ### Great Blogs
 
@@ -67,12 +65,13 @@ title: "Links"
 <li><a href="http://www.astrobetter.com/linking-visualization-and-understanding-in-astronomy-aas223/">Blog post: Linking Visualization and Understanding in Astronomy</a></li>
 <li><a href="http://viz.wtf">WTF Visualisations</a> :visualisations that make no sense</li>
 <li><a href="http://fellinlovewithdata.com">Fell in love with data</a> edited by Enrico Bertini  (<a href="https://twitter.com/filwd">@FILWD</a>), an Assistant Professor at the NYU Polytechnic School of Engineering.</li>
-<li><a href="https://www.kimonolabs.com/about">Kimono</a>: web text scraper - lets you turn websites into APIs in seconds</li>
 </ul>
 
-### Other resources 
+### Groups, organisations etc.
 
-<li><a href="http://scsc.wtf">Swinburne Cyber Security Club</a></li>
+* [Swinburne Cyber Security Club](http://scsc.wtf)
+* [Mozilla Science Lab - Mozsprint](https://forum.mozillascience.org/t/mozsprint-projects-where-to-start/239)
+* [Random Hacks of Kindness (RHoK)](http://www.rhokaustralia.org): hacking for humanity
 
 ## Project Examples (Brag Book) ##
 
