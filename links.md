@@ -30,6 +30,8 @@ title: "Links"
 * [Become a Git Guru](https://www.atlassian.com/git/tutorials/): Atlassian tutorial
 * [Version Control with Git](http://swcarpentry.github.io/git-novice/): Software Carpentry
 * [Troubleshooting Git](https://sethrobertson.github.io/GitFixUm/fixup.html)
+* [Another useful GitHub tutorial](https://github.com/smutch/VersionControlTutorial/tree/master/source/pages)
+* [Git Fundamentals](https://github.com/dlab-berkeley/git-fundamentals) - from Berkeley Hacker Within & D-Lab 
 
 ### VMs and database tools 
 
