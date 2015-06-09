@@ -34,11 +34,15 @@ title: "Links"
 ### VMs and database tools 
 
 * [Digital Ocean](https://www.digitalocean.com): Simple cloud hosting - deploy an SSD cloud server in 55 seconds.
-* [NecTAR Research Cloud](https://www.nectar.org.au/research-cloud)
+* [NecTAR Research Cloud](https://www.nectar.org.au/research-cloud) : publish research data, share knowledge and rapidly deploy and access software applications.
+* [SQL Alchemy](http://www.sqlalchemy.org): A database toolkit for Python
+* [MySQLdb](http://sourceforge.net/projects/mysql-python/): MySQL database connector for Python programming
+
 
 ### Copyright, software licensing and citation 
 
 * [Choose a license](http://choosealicense.com)
+* 
 
 ### Hacking 
 
