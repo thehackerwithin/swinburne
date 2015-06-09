@@ -20,7 +20,7 @@ title: "Links"
 * [OdysseyJS](https://github.com/CartoDB/odyssey.js/): Javascript library that allows you to combine maps, narratives, and other multimedia into a beautiful story.
 * [WebGL](https://get.webgl.org): a JavaScript API for rendering interactive 3D graphics and 2D graphics within any compatible web browser without the use of plug-ins.
 
-### Tools 
+### Other Tools 
 
 * [CodePen](http://codepen.io): Front end developer playground and in-browser code editor.
 * [Raphael](http://raphaeljs.com): a small JavaScript library that should simplify your work with vector graphics on the web.
