@@ -8,7 +8,7 @@ title: "Links"
 
 # Useful links #
 
-## Data visualisation ##
+### Data visualisation ###
 
 * [D3js.org](http://d3js.org): Data-driven Documents Javascript library
 * [CartoDB](http://cartodb.com): Mapping for Researchers
@@ -18,13 +18,13 @@ title: "Links"
 * [Bar Chart CodePen template](http://codepen.io/mbostock/pen/Jaemg)
 
 
-## Tools ##
+### Tools 
 
 * [CodePen](http://codepen.io): Front end developer playground and in-browser code editor.
 * [Raphael](http://raphaeljs.com): a small JavaScript library that should simplify your work with vector graphics on the web.
 * [Mining the Social Web](http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)
 
-## Version Control ##
+### Version Control 
 
 * [Bitbucket](https://bitbucket.org/): Git and Mercurial hosting for teams
 * [Become a Git Guru](https://www.atlassian.com/git/tutorials/): Atlassian tutorial
