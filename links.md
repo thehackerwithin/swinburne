@@ -20,9 +20,9 @@ title: "Links"
 
 ## Tools ##
 
-[CodePen](http://codepen.io): Front end developer playground and in-browser code editor.
-[Raphael](http://raphaeljs.com): a small JavaScript library that should simplify your work with vector graphics on the web.
-[Mining the Social Web](http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)
+* [CodePen](http://codepen.io): Front end developer playground and in-browser code editor.
+* [Raphael](http://raphaeljs.com): a small JavaScript library that should simplify your work with vector graphics on the web.
+* [Mining the Social Web](http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)
 
 ## Version Control ##
 
@@ -59,6 +59,7 @@ title: "Links"
 ## Other useful links ##
 
 <li><a href="http://scsc.wtf">Swinburne Cyber Security Club</a></li>
+
 ## Project Examples (Brag Book) ##
 
 <ul>
