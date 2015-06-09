@@ -24,3 +24,7 @@ SQL School is designed for aspiring analysts who have used Excel a little bit, b
 
 Though some of the lessons may be useful for software developers using SQL in their applications, this tutorial doesn't cover how to set up SQL databases or how to use them in software applications—it is not a comprehensive resource for aspiring software developers.
 
+
+## Attended by
+
+* Arna Karick, SHW organiser & e-Research Consultant & astro by trade (Swinburne Research)
