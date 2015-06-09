@@ -31,7 +31,7 @@ title: "Links"
 * [Version Control with Git](http://swcarpentry.github.io/git-novice/): Software Carpentry
 * [Troubleshooting Git](https://sethrobertson.github.io/GitFixUm/fixup.html)
 
-## VMs and database tools ##
+### VMs and database tools 
 
 * [Digital Ocean](https://www.digitalocean.com): Simple cloud hosting - deploy an SSD cloud server in 55 seconds.
 * [NecTAR Research Cloud](https://www.nectar.org.au/research-cloud)
