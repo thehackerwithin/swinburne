@@ -6,23 +6,46 @@ title: "Links"
 <!-- You can edit this whole page, remove it, or use it as basis for any non-post pages you have. -->
 <section class="content">
 
-## Useful links 
+# Useful links #
 
-<ul>
-<li><a href="http://scsc.wtf">Swinburne Cyber Security Club</a></li>
-<li><a href="http://cartodb.com">CartoDB</a>: Mapping for Researchers</li>
-<li><a href="http://leafletjs.com"> LeafletJS</a>: Open-source JavaScript library for mobile-friendly interactive maps.</li>
-<li><a href="https://www.openstreetmap.org">Open Street Map</a></li>
-<li><a href="http://timeline.knightlab.com">TimelineJS</a>: Beautifully crafted timelines that are easy and intuitive to use.</li>
-<li><a href="http://d3js.org">D3js.org</a>: Data-driven Documents Javascript library</li>
+## Data visualisation ##
 
-<li><a href="http://codepen.io">CodePen</a>: Front end developer playground and in-browser code editor</li>
-<li><a href="http://codepen.io/mbostock/pen/Jaemg">Bar Chart CodePen template</a></li>
-<li><a href="http://raphaeljs.com">Raphael</a>: a small JavaScript library that should simplify your work with vector graphics on the web</li>
-<li><a href="http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/">Mining the Social Web - IPython Notebook </li>
-</ul>
+* [D3js.org](http://d3js.org): Data-driven Documents Javascript library
+* [CartoDB](http://cartodb.com): Mapping for Researchers
+* [LeafletJS](http://leafletjs.com): Open-source JavaScript library for mobile-friendly interactive maps.
+* [Open Street Map](https://www.openstreetmap.org)
+* [TimelineJS](http://timeline.knightlab.com): Beautifully crafted timelines that are easy and intuitive to use.
+* [Bar Chart CodePen template](http://codepen.io/mbostock/pen/Jaemg)
 
-## Great Blogs
+
+## Tools ##
+
+[CodePen](http://codepen.io): Front end developer playground and in-browser code editor.
+[Raphael](http://raphaeljs.com): a small JavaScript library that should simplify your work with vector graphics on the web.
+[Mining the Social Web](http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)
+
+## Version Control ##
+
+* [Bitbucket](https://bitbucket.org/): Git and Mercurial hosting for teams
+* [Become a Git Guru](https://www.atlassian.com/git/tutorials/): Atlassian tutorial
+* [Version Control with Git](http://swcarpentry.github.io/git-novice/): Software Carpentry
+* [Troubleshooting Git](https://sethrobertson.github.io/GitFixUm/fixup.html)
+
+## VMs and database tools ##
+
+* [Digital Ocean](https://www.digitalocean.com): Simple cloud hosting - deploy an SSD cloud server in 55 seconds.
+* [NecTAR Research Cloud](https://www.nectar.org.au/research-cloud)
+
+## Copyright, software licensing and citation ##
+
+* [Choose a license](http://choosealicense.com)
+
+## Hacking ##
+
+* [Mozilla Science Lab - Mozsprint](https://forum.mozillascience.org/t/mozsprint-projects-where-to-start/239)
+* [Random Hacks of Kindness (RHoK)](http://www.rhokaustralia.org)
+
+## Great Blogs ##
 
 <ul>
 <li><a href="http://www.astrobiased.com">Astrobiased:</a> by Eli Bressert, Astronomer turned Data Scientist</a></li>
@@ -33,7 +56,10 @@ title: "Links"
 <li><a href="https://www.kimonolabs.com/about">Kimono</a>: web text scraper - lets you turn websites into APIs in seconds</li>
 </ul>
 
-## Project Examples (Brag Book)
+## Other useful links ##
+
+<li><a href="http://scsc.wtf">Swinburne Cyber Security Club</a></li>
+## Project Examples (Brag Book) ##
 
 <ul>
 <li><a href="http://www.physics.usyd.edu.au/~vmoss/jobvis/" target="new">Visualising the AAS Job Register</a> - from .Astronomy6 conference (uses LeafletJS)</li>
