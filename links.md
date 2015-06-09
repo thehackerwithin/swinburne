@@ -6,9 +6,9 @@ title: "Links"
 <!-- You can edit this whole page, remove it, or use it as basis for any non-post pages you have. -->
 <section class="content">
 
-# Useful links #
+# Useful Links#
 
-### Data visualisation ###
+### Data visualisation 
 
 * [D3js.org](http://d3js.org): Data-driven Documents Javascript library
 * [CartoDB](http://cartodb.com): Mapping for Researchers
@@ -36,16 +36,16 @@ title: "Links"
 * [Digital Ocean](https://www.digitalocean.com): Simple cloud hosting - deploy an SSD cloud server in 55 seconds.
 * [NecTAR Research Cloud](https://www.nectar.org.au/research-cloud)
 
-## Copyright, software licensing and citation ##
+### Copyright, software licensing and citation 
 
 * [Choose a license](http://choosealicense.com)
 
-## Hacking ##
+### Hacking 
 
 * [Mozilla Science Lab - Mozsprint](https://forum.mozillascience.org/t/mozsprint-projects-where-to-start/239)
 * [Random Hacks of Kindness (RHoK)](http://www.rhokaustralia.org)
 
-## Great Blogs ##
+### Great Blogs
 
 <ul>
 <li><a href="http://www.astrobiased.com">Astrobiased:</a> by Eli Bressert, Astronomer turned Data Scientist</a></li>
@@ -56,7 +56,7 @@ title: "Links"
 <li><a href="https://www.kimonolabs.com/about">Kimono</a>: web text scraper - lets you turn websites into APIs in seconds</li>
 </ul>
 
-## Other useful links ##
+### Other resources 
 
 <li><a href="http://scsc.wtf">Swinburne Cyber Security Club</a></li>
 
