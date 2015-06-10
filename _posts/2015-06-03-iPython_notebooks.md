@@ -63,7 +63,7 @@ Neil gave a short presentation with examples of his own Notebooks and talked abo
 * Samara Neilson  &amp; Research Data Coordinator (Swinburne Research)
 * Neil Crighton, Post-doc  (Centre for Astrophysics & Supercomputing - CAS)
 * Srdan Kotus, PhD student  (Centre for Astrophysics & Supercomputing - CAS)
-* Nicole Ronald, Research staff (Dept of Computer Science and Software Engineering)
+* Nicole Ronald, Lecturer (Dept of Computer Science and Software Engineering)
 * Leon Hartman, Honours Student - Bioscience (Department of Chemistry and Biotechnology)
 * Guido Moyano Loyola (Centre for Astrophysics & Supercomputing - CAS)
 * Nicola Pastorello, PhD student  (Centre for Astrophysics & Supercomputing - CAS)
