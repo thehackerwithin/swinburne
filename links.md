@@ -12,13 +12,15 @@ title: "Links"
 
 * [D3js.org](http://d3js.org): Data-driven Documents Javascript library
 * [CartoDB](http://cartodb.com): Mapping for Researchers
-* [LeafletJS](http://leafletjs.com): Open-source JavaScript library for mobile-friendly interactive maps.
+* [LeafletJS](http://leafletjs.com): Open-source JavaScript library for mobile-friendly interactive maps
 * [Open Street Map](https://www.openstreetmap.org)
-* [TimelineJS](http://timeline.knightlab.com): Beautifully crafted timelines that are easy and intuitive to use.
+* {AGIS Mapping Software](http://downloads.info/windows/science/geography/agis-mapping.html)
+* [TimelineJS](http://timeline.knightlab.com): Beautifully crafted timelines that are easy and intuitive to use
 * [Bar Chart CodePen template](http://codepen.io/mbostock/pen/Jaemg)
 * [Tableau Public](https://public.tableau.com/s/) free tool for visualising data
-* [OdysseyJS](https://github.com/CartoDB/odyssey.js/): Javascript library that allows you to combine maps, narratives, and other multimedia into a beautiful story.
-* [WebGL](https://get.webgl.org): a JavaScript API for rendering interactive 3D graphics and 2D graphics within any compatible web browser without the use of plug-ins.
+* [OdysseyJS](https://github.com/CartoDB/odyssey.js/): Javascript library that allows you to combine maps, narratives, and other multimedia into a beautiful story
+* [WebGL](https://get.webgl.org): a JavaScript API for rendering interactive 3D graphics and 2D graphics within any compatible web browser without the use of plug-ins
+
 
 ### Other Tools 
 
