@@ -24,6 +24,7 @@ title: "Links"
 
 ### Other Tools 
 
+* [Light Table](http://lighttable.com): Code editor
 * [CodePen](http://codepen.io): Front end developer playground and in-browser code editor.
 * [Raphael](http://raphaeljs.com): a small JavaScript library that should simplify your work with vector graphics on the web.
 * [Mining the Social Web](http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)
