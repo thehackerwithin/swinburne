@@ -10,9 +10,9 @@ title: "Links"
 
 ### Data visualisation 
 
-* [D3js.org](http://d3js.org): Data-driven Documents Javascript library
-* [CartoDB](http://cartodb.com): Mapping for Researchers
-* [LeafletJS](http://leafletjs.com): Open-source JavaScript library for mobile-friendly interactive maps
+* [D3js.org](http://d3js.org): data-driven documents Javascript library
+* [CartoDB](http://cartodb.com): mapping for Researchers
+* [LeafletJS](http://leafletjs.com): open-source JavaScript library for mobile-friendly interactive maps
 * [Open Street Map](https://www.openstreetmap.org)
 * [AGIS Mapping Software](http://download.cnet.com/AGIS-Mapping/3000-12940_4-10009839.html)
 * [TimelineJS](http://timeline.knightlab.com): Beautifully crafted timelines that are easy and intuitive to use
@@ -28,6 +28,7 @@ title: "Links"
 * [CodePen](http://codepen.io): Front end developer playground and in-browser code editor.
 * [Raphael](http://raphaeljs.com): a small JavaScript library that should simplify your work with vector graphics on the web.
 * [Mining the Social Web](http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)
+* [QGIS](http://www.qgis.org): is a cross-platform Open Source Geographic Information system
 * [OpenRefine](http://openrefine.org): a powerful tool for working with messy data.
 * [Omeka](http://omeka.org): an open source web publishing platform for creating online exhibitions.
 * [Omeka CSV plugin](http://omeka.org/add-ons/plugins/csv-import/): allows users to import items from a simple CSV file, and then map the CSV column data to multiple elements, files, and/or tags.
