@@ -14,7 +14,7 @@ title: "Links"
 * [CartoDB](http://cartodb.com): Mapping for Researchers
 * [LeafletJS](http://leafletjs.com): Open-source JavaScript library for mobile-friendly interactive maps
 * [Open Street Map](https://www.openstreetmap.org)
-* {AGIS Mapping Software](http://downloads.info/windows/science/geography/agis-mapping.html)
+* [AGIS Mapping Software](http://downloads.info/windows/science/geography/agis-mapping.html)
 * [TimelineJS](http://timeline.knightlab.com): Beautifully crafted timelines that are easy and intuitive to use
 * [Bar Chart CodePen template](http://codepen.io/mbostock/pen/Jaemg)
 * [Tableau Public](https://public.tableau.com/s/) free tool for visualising data
