@@ -21,6 +21,7 @@ title: "Links"
 * [OdysseyJS](https://github.com/CartoDB/odyssey.js/): Javascript library that allows you to combine maps, narratives, and other multimedia into a beautiful story
 * [WebGL](https://get.webgl.org): a JavaScript API for rendering interactive 3D graphics and 2D graphics within any compatible web browser without the use of plug-ins
 * [RAW](http://raw.densitydesign.org): useful tool for visualising simple spreadsheet data
+* [@IsaKiko's lesson plans](http://isakiko.github.io/D3-visualising-data/): for teaching the basics of HTML, CSS, SVG, JSON, and JS (primarily D3.js) 
 
 
 ### Other Tools 
