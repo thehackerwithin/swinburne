@@ -54,17 +54,11 @@ title: "Links"
 * [MySQLdb](http://sourceforge.net/projects/mysql-python/): MySQL database connector for Python programming
 * [ngrok](https://ngrok.com): Secure tunnels to localhost
 
-
 ### Copyright, software licensing and citation 
 
 * [Choose a license](http://choosealicense.com)
 
-
-
-
-
-### Great blogs &;amp posts
-
+### Great blogs &amp; posts
 
 * [Astrobiased](http://www.astrobiased.com): by Eli Bressert, Astronomer turned Data Scientist
 * [Musings in Amusing Data](http://datamusing.info) by Sudeep Das, Astrophysicist turned Data Scientist
