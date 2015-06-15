@@ -44,6 +44,7 @@ Swinburne Hacker Within will explore the following tentative set of topics over 
 <li>S2PLOT: advanced three-dimensional plotting library that can be used to embed interactive PDFs into papers</li>
 <li>OpenRefine (formerly Google Refine): great for cleaning up messy spreadsheet data</li>
 <li>SQLAlchemy the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.</li>
+<li>@IsaKiko's lesson plans: for teaching the basics of HTML, CSS, SVG, JSON, and JS (primarily D3.js)</li>
 <li>Bibliometics? Hacking journal archives  </li>
 <li>Random Hacks of Kindness" Website: <a href="http://www.rhokaustralia.org">rhokaustralia.org</a> </li>
 <li>Object Oriented Programming</li>
