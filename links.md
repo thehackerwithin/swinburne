@@ -36,6 +36,7 @@ title: "Links"
 * [Omeka CSV plugin](http://omeka.org/add-ons/plugins/csv-import/): allows users to import items from a simple CSV file, and then map the CSV column data to multiple elements, files, and/or tags.
 * [Paperweight](http://paperweight.readthedocs.org/en/latest/): a Python package for hacking LaTeX documents.
 * [Kimono](https://www.kimonolabs.com/about): web text scraper - lets you turn websites into APIs in seconds.
+* [Javascript.com](https://www.javascript.com): a resource built by the Code School team for the JavaScript community.
 
 ### Version Control 
 
