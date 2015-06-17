@@ -12,7 +12,7 @@ tags: visualisation
 
 Advanced Manufacturing and Design Centre - Room 206. Wednesday 24th June from 2 - 3:30pm.
 
-General coding and project work
+## General coding and project work
 
 There is no tutorial or formal discussion scheduled for this session. Feel free to use this time to catch up on previous SHW sessions, work on your own projects, or brush up your coding skills. We recommend Codecademy, Khan Academy and Coursera to begin with. Examples of projects created by SHW participants can be found here. We generally work to music... (BBC 6 Music)
 
