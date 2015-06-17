@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hacky Hour & SQL School from Mode Analytics (Note this session starts at 2pm)
-author: Arna Karick
+title: Hacky Hour (w/ SQL School from Mode Analytics) - Note this session starts at 2pm
+author: 
 time: 1:30 -3 PM
 location: AMDC 206
 category: upcoming
