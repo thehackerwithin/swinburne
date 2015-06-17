@@ -65,7 +65,7 @@ title: "Links"
 * [Astrobiased](http://www.astrobiased.com): by Eli Bressert, Astronomer turned Data Scientist
 * [Musings in Amusing Data](http://datamusing.info) by Sudeep Das, Astrophysicist turned Data Scientist
 * [WTF Visualisations](http://viz.wtf): visualisations that make no sense
-* [Fell in love with data]<(http://fellinlovewithdata.com): edited by [Enrico Bertini](https://twitter.com/filwd), an Assistant Professor at the NYU Polytechnic School of Engineering.
+* [Fell in love with data](http://fellinlovewithdata.com): edited by [Enrico Bertini](https://twitter.com/filwd), an Assistant Professor at the NYU Polytechnic School of Engineering.
 * [Blog post: Linking Visualization and Understanding in Astronomy](http://www.astrobetter.com/linking-visualization-and-understanding-in-astronomy-aas223)
 * [Blog post: Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)
 
