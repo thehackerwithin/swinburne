@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hacky Hour (w/ SQL School from Mode Analytics) -- Note this session starts at 2pm
-author: 
+title: Hacky Hour (w/ SQL School from Mode Analytics)
+author: Note this session starts at 2pm
 time: 2 - 3 PM
 location: AMDC 206
 category: upcoming
