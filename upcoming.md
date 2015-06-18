@@ -31,6 +31,7 @@ Swinburne Hacker Within will explore the following tentative set of topics over 
 **Potential Topics**
 
 <ul class="listing">
+<li>Data and Databases 101 - SQL, MySQL, SQLite,  NoSQL etc. </li>
 <li>Creating interactive figures from basic research plots</li>
 <li><a href="http://mozillascience.github.io/studyGroupHandbook/organizing.html">Mozilla Study Groups</a></li>
 <li>Introduction to Julia Programming Language</li>
