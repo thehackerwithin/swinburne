@@ -20,6 +20,8 @@ title: "Links"
 * [Tableau Public](https://public.tableau.com/s/) free tool for visualising data
 * [OdysseyJS](https://github.com/CartoDB/odyssey.js/): Javascript library that allows you to combine maps, narratives, and other multimedia into a beautiful story
 * [WebGL](https://get.webgl.org): a JavaScript API for rendering interactive 3D graphics and 2D graphics within any compatible web browser without the use of plug-ins
+* [RAW](http://raw.densitydesign.org): useful tool for visualising simple spreadsheet data
+* [@IsaKiko's lesson plans](http://isakiko.github.io/D3-visualising-data/): for teaching the basics of HTML, CSS, SVG, JSON, and JS (primarily D3.js) 
 
 
 ### Other Tools 
@@ -34,6 +36,7 @@ title: "Links"
 * [Omeka CSV plugin](http://omeka.org/add-ons/plugins/csv-import/): allows users to import items from a simple CSV file, and then map the CSV column data to multiple elements, files, and/or tags.
 * [Paperweight](http://paperweight.readthedocs.org/en/latest/): a Python package for hacking LaTeX documents.
 * [Kimono](https://www.kimonolabs.com/about): web text scraper - lets you turn websites into APIs in seconds.
+* [JavaScript.com](https://www.javascript.com): a resource built by the Code School team for the JavaScript community.
 
 ### Version Control 
 
@@ -47,29 +50,24 @@ title: "Links"
 ### VMs and database tools 
 
 * [Digital Ocean](https://www.digitalocean.com): Simple cloud hosting - deploy an SSD cloud server in 55 seconds.
-* [NecTAR Research Cloud](https://www.nectar.org.au/research-cloud): publish research data, share knowledge and rapidly deploy and access software applications.
+* [NecTAR Research Cloud](https://www.nectar.org.au/research-cloud): publish research data, share knowledge and rapidly deploy and access software applications
+* [Launchpod by Intersect](https://launchpod.intersect.org.au): allows you to easily run various software products in the NeCTAR research cloud
 * [SQL Alchemy](http://www.sqlalchemy.org): A database toolkit for Python
 * [MySQLdb](http://sourceforge.net/projects/mysql-python/): MySQL database connector for Python programming
 * [ngrok](https://ngrok.com): Secure tunnels to localhost
-
 
 ### Copyright, software licensing and citation 
 
 * [Choose a license](http://choosealicense.com)
 
+### Great blogs &amp; posts
 
-
-
-
-### Great Blogs
-
-<ul>
-<li><a href="http://www.astrobiased.com">Astrobiased:</a> by Eli Bressert, Astronomer turned Data Scientist</a></li>
-<li><a href="http://datamusing.info">Musings in Amusing Data</a> by Sudeep Das, Astrophysicist turned Data Scientist</a></li>
-<li><a href="http://www.astrobetter.com/linking-visualization-and-understanding-in-astronomy-aas223/">Blog post: Linking Visualization and Understanding in Astronomy</a></li>
-<li><a href="http://viz.wtf">WTF Visualisations</a> :visualisations that make no sense</li>
-<li><a href="http://fellinlovewithdata.com">Fell in love with data</a> edited by Enrico Bertini  (<a href="https://twitter.com/filwd">@FILWD</a>), an Assistant Professor at the NYU Polytechnic School of Engineering.</li>
-</ul>
+* [Astrobiased](http://www.astrobiased.com): by Eli Bressert, Astronomer turned Data Scientist
+* [Musings in Amusing Data](http://datamusing.info) by Sudeep Das, Astrophysicist turned Data Scientist
+* [WTF Visualisations](http://viz.wtf): visualisations that make no sense
+* [Fell in love with data](http://fellinlovewithdata.com): edited by [Enrico Bertini](https://twitter.com/filwd), an Assistant Professor at the NYU Polytechnic School of Engineering.
+* [Blog post: Linking Visualization and Understanding in Astronomy](http://www.astrobetter.com/linking-visualization-and-understanding-in-astronomy-aas223)
+* [Blog post: Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)
 
 ### Groups, organisations etc.
 

@@ -31,22 +31,25 @@ Swinburne Hacker Within will explore the following tentative set of topics over 
 **Potential Topics**
 
 <ul class="listing">
+<li>Data and Databases 101 - SQL, MySQL, SQLite,  NoSQL etc. </li>
 <li>Creating interactive figures from basic research plots</li>
 <li><a href="http://mozillascience.github.io/studyGroupHandbook/organizing.html">Mozilla Study Groups</a></li>
 <li>Introduction to Julia Programming Language</li>
 <li>D3js Data-driven Documents: Javascript library - Website: <a href="http://d3js.org">D3js.org</a></li>
 <li>Building visually-rich interactive timelines with TimelineJS</li>
-<li> CartoDB Mapping for Researchers</li>
-<li> LeafletJS: open-source JavaScript library for mobile-friendly interactive maps - Website: <a href="http://leafletjs.com">LeafletJS</a></li>
-<li> OdysseyJS: open-source tool that allows you to combine maps, narratives, and other multimedia into a beautiful story</li>
+<li>CartoDB Mapping for Researchers</li>
+<li>LeafletJS: open-source JavaScript library for mobile-friendly interactive maps - Website: <a href="http://leafletjs.com">LeafletJS</a></li>
+<li>OdysseyJS: open-source tool that allows you to combine maps, narratives, and other multimedia into a beautiful story</li>
 <li>Coding for Citizen Science projects - Zooniverse etc.</li>
 <li>Tableau Public free tool for visualising data</li>
 <li>S2PLOT: advanced three-dimensional plotting library that can be used to embed interactive PDFs into papers</li>
 <li>OpenRefine (formerly Google Refine): great for cleaning up messy spreadsheet data</li>
 <li>SQLAlchemy the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.</li>
-<li> Bibliometics? Hacking journal archives  </li>
+<li>@IsaKiko's lesson plans: for teaching the basics of HTML, CSS, SVG, JSON, and JS (primarily D3.js)</li>
+<li>Bibliometics? Hacking journal archives  </li>
 <li>Random Hacks of Kindness" Website: <a href="http://www.rhokaustralia.org">rhokaustralia.org</a> </li>
 <li>Object Oriented Programming</li>
+<li>Replicable scientific papers using docker</li>
 <li>Introduction to Authorea</li>
 <li>R</li>
 <li>Shiny: an R-language package that creates web applications to interact with analysis pipelines and visualizations.</li>
