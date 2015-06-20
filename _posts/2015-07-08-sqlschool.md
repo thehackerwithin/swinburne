@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Hacky Hour (w/ SQL School from Mode Analytics)
-author: Note this session starts at 2pm
-time: 2 - 3 PM
+author: 
+time: 1:30 - 3 PM
 location: AMDC 206
 category: upcoming
 tags: visualisation
@@ -10,7 +10,7 @@ tags: visualisation
 
 ## Where & When
 
-Advanced Manufacturing and Design Centre - Room 206. Wednesday 24th June from 2 - 3:30pm.
+Advanced Manufacturing and Design Centre - Room 206. Wednesday 8th June from 1:30 - 3pm.
 
 ## General coding and project work
 
@@ -18,7 +18,7 @@ There is no tutorial or formal discussion scheduled for this session. Feel free 
 
 ## About SQL School ##
 
-For those who want to start learning SQL, the [SQL School tutorials](http://sqlschool.modeanalytics.com) are designed for people who want to answer questions with data. For many, SQL is the "meat and potatoes" of data analysis —it is used for accessing, cleaning, and analyzing data that is stored in databases. It's very easy to learn, but is employed by the world's largest companies to solve incredibly challenging problems.
+For those who want to keep earning SQL, the [SQL School tutorials](http://sqlschool.modeanalytics.com) are designed for people who want to answer questions with data. For many, SQL is the "meat and potatoes" of data analysis —it is used for accessing, cleaning, and analyzing data that is stored in databases. It's very easy to learn, but is employed by the world's largest companies to solve incredibly challenging problems.
 
 SQL School is designed for aspiring analysts who have used Excel a little bit, but have no SQL experience. If you're already somewhat familiar with SQL or find the lessons to be a bit slow, check out the table of contents and start in the place that's right for you.
 
