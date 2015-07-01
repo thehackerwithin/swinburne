@@ -22,7 +22,7 @@ title: "Links"
 * [WebGL](https://get.webgl.org): a JavaScript API for rendering interactive 3D graphics and 2D graphics within any compatible web browser without the use of plug-ins
 * [RAW](http://raw.densitydesign.org): useful tool for visualising simple spreadsheet data
 * [@IsaKiko's lesson plans](http://isakiko.github.io/D3-visualising-data/): for teaching the basics of HTML, CSS, SVG, JSON, and JS (primarily D3.js) 
-
+* [D3js tutorial](http://evilangelpixie.github.io/d3js/): tutorial created by Samara Neilson for SHW.
 
 ### Other Tools 
 
@@ -52,6 +52,7 @@ title: "Links"
 * [Digital Ocean](https://www.digitalocean.com): Simple cloud hosting - deploy an SSD cloud server in 55 seconds.
 * [NecTAR Research Cloud](https://www.nectar.org.au/research-cloud): publish research data, share knowledge and rapidly deploy and access software applications
 * [Launchpod by Intersect](https://launchpod.intersect.org.au): allows you to easily run various software products in the NeCTAR research cloud
+* [Introduction to relational databases with SQL](http://macrocosme.github.io/db_sql.html): tutorial created by Dany Vohl for SHW
 * [SQL Alchemy](http://www.sqlalchemy.org): A database toolkit for Python
 * [MySQLdb](http://sourceforge.net/projects/mysql-python/): MySQL database connector for Python programming
 * [ngrok](https://ngrok.com): Secure tunnels to localhost
@@ -84,6 +85,7 @@ title: "Links"
 <li><a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AtZUlHbzLE_hdHJSeTZldGJJQW5RMFpfY0ZadjFDUGc&font=Bevan-PotanoSans&maptype=toner&lang=en&start_at_end=true&height=650" target="new">PLATYPUS survey interactive timeline</a>: a southern debris disk survey at 7mm. (uses TimelineJS & Google spreadsheet) -- by Elodie Thilliez </li>
 <li><a href="http://evilangelpixie.github.io/d3js/" target="new">SHW Week 3 D3js tutorial</a> (uses Github, poole and Jekyll) -- by Samara Neilson</li>
 <li><a href="http://drarnakarick.github.io/software-carpentry-resources/" target="new">Software Carpentry Resources</a> (uses Github, poole and Jekyll &amp; D3js, data is a .csv spreadsheet) -- by Arna Karick</li>
+<li><a href="http://macrocosme.github.io/db_sql.html" target="new">Introduction to relational databases with SQL</a>: Workshop website created by Dany Vohl</li>
 </ul>
 
 </section>
