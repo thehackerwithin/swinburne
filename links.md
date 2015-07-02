@@ -83,9 +83,9 @@ title: "Links"
 <li><a href="http://ideas.theoj.org" target="new">The Journal of Brief Ideas</a> - from .Astronomy6 conference</li>
 <li><a href="http://citeurl.herokuapp.com/search" target="new">CiteURL</a>: A web app that returns a link to the web page of an article given a citation (uses Python, Flask & Heroku) -- by Antonio Bibiano</li><li><a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=1Ew3qdqfPaDemmBy0zsdyBlL0QFCulJKqL_4Kea_AMWw&font=Bevan-PotanoSans&maptype=toner&lang=en&start_zoom_adjust=2&height=650" target="new">UTMOST telescope interactive timeline</a> (uses TimelineJS & Google spreadsheet) -- by Arna Karick </li>
 <li><a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AtZUlHbzLE_hdHJSeTZldGJJQW5RMFpfY0ZadjFDUGc&font=Bevan-PotanoSans&maptype=toner&lang=en&start_at_end=true&height=650" target="new">PLATYPUS survey interactive timeline</a>: a southern debris disk survey at 7mm. (uses TimelineJS & Google spreadsheet) -- by Elodie Thilliez </li>
-<li><a href="http://evilangelpixie.github.io/d3js/" target="new">SHW Week 3 D3js tutorial</a> (uses Github, poole and Jekyll) -- by Samara Neilson</li>
+<li><a href="http://evilangelpixie.github.io/d3js/" target="new">SHW Week 3 D3js tutorial</a> (uses Github, poole &amp; Jekyll) -- by Samara Neilson</li>
 <li><a href="http://drarnakarick.github.io/software-carpentry-resources/" target="new">Software Carpentry Resources</a> (uses Github, poole and Jekyll &amp; D3js, data is a .csv spreadsheet) -- by Arna Karick</li>
-<li><a href="http://macrocosme.github.io/db_sql.html" target="new">Introduction to relational databases with SQL</a>: SHW workshop website -- by Dany Vohl</li>
+<li><a href="http://macrocosme.github.io/db_sql.html" target="new">(uses GitHub &amp; HTML5 UP)Introduction to relational databases with SQL</a>: SHW workshop website -- by Dany Vohl</li>
 </ul>
 
 </section>
