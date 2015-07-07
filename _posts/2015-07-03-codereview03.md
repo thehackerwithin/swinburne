@@ -4,7 +4,7 @@ title:  Astronomy Code Review (for CAS researchers)
 author: Ewan Barr & Neil Crighton 
 time: 4 PM
 location: AR 209
-category: upcoming
+category: posts
 tags: astronomy code 
 ---
 
