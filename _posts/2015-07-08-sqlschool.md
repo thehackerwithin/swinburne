@@ -30,4 +30,8 @@ Though some of the lessons may be useful for software developers using SQL in th
 
 ## Attended by
 
-* Arna Karick, SHW organiser & e-Research Consultant & astro by trade (Swinburne Research)
+* Arna Karick, SHW organiser & e-Research Consultant  (Swinburne Research)
+* Felipe Marin, Postdoc (Centre for Astrophysics &amp; Supercomputing - CAS) 
+* Luis Torres, PhD student (CAS)
+* Elodie Thilliez, PhD student (CAS)
+* Katharina Lutz, PhD student (CAS)
