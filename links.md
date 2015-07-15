@@ -23,7 +23,8 @@ title: "Links"
 * [RAW](http://raw.densitydesign.org): useful tool for visualising simple spreadsheet data
 * [@IsaKiko's lesson plans](http://isakiko.github.io/D3-visualising-data/): for teaching the basics of HTML, CSS, SVG, JSON, and JS (primarily D3.js) 
 * [D3js tutorial](http://evilangelpixie.github.io/d3js/): tutorial created by Samara Neilson for SHW.
-
+* [dimple.js](http://dimplejs.org): An object-oriented API for business analytics powered by d3)
+ 
 ### Other Tools 
 
 * [Light Table](http://lighttable.com): Code editor
