@@ -25,14 +25,14 @@ Swinburne Hacker Within will explore the following tentative set of topics over 
 {% endfor %}
 </ul>
 </section>
+
 <section class="content">
-
 **Recent Tutorials from other chapters**
+While Swinburne takes a break from formal SHW tutorials we recommend checking out the *previous* and *upcoming* tutorials and discussions from [Berkeley](http://thehackerwithin.github.io/berkeley/previous.html), [Illinois](http://thehackerwithin.github.io/illinois/previous.html), and [Wisconsin](http://thehackerwithin.github.io/wisconsin/previous.html)
+</section>
 
-While Swinburne takes a break from formal SHW tutorials, check out the *previous* and *upcoming*  tutorials and discussions from [Berkeley](http://thehackerwithin.github.io/berkeley/previous.html), [Illinois](http://thehackerwithin.github.io/illinois/previous.html), and [Wisconsin](http://thehackerwithin.github.io/wisconsin/previous.html)
-
+<section class="content">
 **Potential Topics**
-
 <ul class="listing">
 <li>Data and Databases 101 - SQL, MySQL, SQLite,  NoSQL etc. </li>
 <li>Creating interactive figures from basic research plots</li>
