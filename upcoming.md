@@ -25,8 +25,11 @@ Swinburne Hacker Within will explore the following tentative set of topics over 
 {% endfor %}
 </ul>
 </section>
-
 <section class="content">
+
+**Recent Tutorials from other chapters **
+
+While Swimburne takes a break from formal SHW tutorials, check out the *previous* and *upcoming*  tutorials and discussions from [Berkeley]{http://thehackerwithin.github.io/berkeley/previous.html}, [Illinois]{http://thehackerwithin.github.io/illinois/previous.html}, and [Wisconsin]{http://thehackerwithin.github.io/wisconsin/previous.html}
 
 **Potential Topics**
 
