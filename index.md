@@ -38,7 +38,7 @@ Where & When:
 
 **We are taking a short break from Hacky Hour and formal tutorials**
 
-In the meantime we recommend checking out the *previous* and *upcoming* tutorials and discussions and visitng the other Hacker Within chapters: Berkeley, Illinois, and Wisconsin.
+In the meantime we recommend checking out the *previous* and *upcoming* tutorials and discussions and visiting the other Hacker Within chapters: Berkeley, Illinois, and Wisconsin.
 
 <!-- Advanced Manufacturing and Design Centre (AMDC) Room 206. Nominally <strong>every Wednesday from 1:30 - 3:00pm unless otherwise stated</strong>. See the list of <a href="http://thehackerwithin.github.io/swinburne/upcoming.html">upcoming topics</a> for specific dates and times. <font color="#FF3300"><strong> Late arrivals and early leavers welcome</strong></font>. -->
 
