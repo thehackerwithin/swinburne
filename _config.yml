@@ -1,7 +1,10 @@
-markdown: rdiscount
-pygments: true
 permalink: /posts/:title
-auto: false
+future: true
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
 github: thehackerwithin
 rdiscount:
   extensions: [smart]
