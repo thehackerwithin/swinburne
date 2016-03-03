@@ -29,14 +29,14 @@ short talk or demonstration to generate ideas. Some sessions may include a guide
 
 Initial sessions will focus on data visualisation tools for research, creating research websites and blogs, and learning about software repositories like GitHub and useful tools to make programming easier, e.g. iPython Notebook. More advanced topics may be thrown in from time to time.
 
-Organiser: Arna Karick <a href="http://twitter.com/drarnakarick">@drarnakarick</a> (<a href="mailto:akarick@swin.edu.au">akarick@swin.edu.au</a>)
+Organiser: Arna Karick <a href="http://twitter.com/drarnakarick">@drarnakarick</a>. Feel free to contact me via Twitter.
 
 For meeting updates and news please <a href="mailto:RIS@swin.edu.au?Subject=Please add me to the Hacker Within and e-Research mailing lists"><strong>subscribe</strong></a> to the Swinburne Hacker Within mailing list.</p>
 
 Where & When: 
 -----
 
-**We are taking a short break from Hacky Hour and formal tutorials**
+**We are taking a short break from Swinburne Hacker Within**
 
 In the meantime we recommend checking out the *previous* and *upcoming* tutorials and discussions and visiting the other Hacker Within websites: [Berkeley](http://thehackerwithin.github.io/berkeley/previous.html), [Illinois](http://thehackerwithin.github.io/illinois/previous.html), and [Wisconsin](http://thehackerwithin.github.io/wisconsin/previous.html).
 
